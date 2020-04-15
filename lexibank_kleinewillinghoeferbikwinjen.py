@@ -13,7 +13,7 @@ class CustomLanguage(pylexibank.Language):
 
 class Dataset(pylexibank.Dataset):
 	dir = Path(__file__).parent
-	id = "Kleinewillinghoeferbikwinjen"
+	id = "kleinewillinghoeferbikwinjen"
 	language_class = CustomLanguage
 
 	form_spec = pylexibank.FormSpec(

@@ -9,7 +9,15 @@
     "dc:isVersionOf": null,
     "dc:related": null,
     "dc:source": "sources.bib",
+    "dc:title": "CLDF dataset derived from Kleinewillingh\u00f6fer's \"Bikwin-Jen Comparative Wordlist\" from 2015",
+    "dcat:accessURL": "https://github.com/lexibank/Kleinewillinghoeferbikwinjen",
     "prov:wasDerivedFrom": [
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "Repository",
+            "rdf:about": "https://github.com/lexibank/Kleinewillinghoeferbikwinjen",
+            "dc:created": "3a653d1"
+        },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Glottolog",
@@ -39,7 +47,7 @@
             "dc:relation": "requirements.txt"
         }
     ],
-    "rdf:ID": "Kleinewillinghoeferbikwinjen",
+    "rdf:ID": "kleinewillinghoeferbikwinjen",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
     "dialect": {
         "commentPrefix": null

@@ -7,16 +7,16 @@ with open('metadata.json', encoding='utf-8') as fp:
 
 
 setup(
-    name='lexibank_Kleinewillinghoeferbikwinjen',
+    name='lexibank_kleinewillinghoeferbikwinjen',
     description=metadata['title'],
     license=metadata.get('license', ''),
     url=metadata.get('url', ''),
-    py_modules=['lexibank_Kleinewillinghoeferbikwinjen'],
+    py_modules=['lexibank_kleinewillinghoeferbikwinjen'],
     include_package_data=True,
     zip_safe=False,
     entry_points={
         'lexibank.dataset': [
-            'Kleinewillinghoeferbikwinjen=lexibank_Kleinewillinghoeferbikwinjen:Dataset',
+            'kleinewillinghoeferbikwinjen=lexibank_kleinewillinghoeferbikwinjen:Dataset',
         ]
     },
     install_requires=[
