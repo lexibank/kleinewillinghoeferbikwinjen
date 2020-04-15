@@ -16,7 +16,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/Kleinewillinghoeferbikwinjen",
-            "dc:created": "3a653d1"
+            "dc:created": "cb6a865"
         },
         {
             "rdf:type": "prov:Entity",
@@ -55,7 +55,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 1803,
+            "dc:extent": 1804,
             "tableSchema": {
                 "columns": [
                     {

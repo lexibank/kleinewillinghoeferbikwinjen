@@ -5,7 +5,6 @@ from clldutils.path import Path
 from clldutils.misc import slug
 
 
-
 @attr.s
 class CustomLanguage(pylexibank.Language):
 	Source = attr.ib(default=None)
@@ -18,7 +17,7 @@ class Dataset(pylexibank.Dataset):
 
 	form_spec = pylexibank.FormSpec(
 		brackets={"(": ")"},
-		separators=(";", "/", ","),
+		separators=(";", "/", ",", "~", "("),
 		missing_data=('', ' '),
 		strip_inside_brackets=True
 	)
@@ -33,6 +32,18 @@ class Dataset(pylexibank.Dataset):
 
 		languages = args.writer.add_languages(lookup_factory="Name")
 		args.writer.add_sources()
+
+		comments = {
+		'fɛɛni; tshwɐnì (little thing)': 'little thing',
+		'tswáni; feenì (very small)': 'very small',
+		'jì(ì) (=calabash)': '=calabash',
+		'wáà (swín (~pots)': '~pots',
+		'wuo wo; tá (go)': 'go',
+		'wowə́, wo (sit down)': 'sit down',
+		'ɗò kàà déé, wuri ka déé (~up)': '~up',
+		'e mí (give me)': 'give me',
+		'ŋə nuŋ (-sth.)': '-sth.'
+		}
 
 
 		for i in ["Wordlist.tsv", "Pronouns and numbers.tsv"]:
@@ -52,10 +63,11 @@ class Dataset(pylexibank.Dataset):
 		for row in pylexibank.progressbar(data):
 			for language, lexeme in row.items():
 				if language in languages:
-					#print(lexeme)
+					print(lexeme)
 					args.writer.add_forms_from_value(
 						Language_ID=languages[language],
 						Parameter_ID=concepts[row['English']],
 						Value=lexeme,
+						Comment = comments[lexeme] if lexeme in comments.keys() else "",
 						Source=row['Source']
 					)
