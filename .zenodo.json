@@ -1,0 +1,31 @@
+{
+    "title": "CLDF dataset derived from Kleinewillingh\u00f6fer's \"Bikwin-Jen Comparative Wordlist\" from 2015",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Wordlist",
+        "linguistics"
+    ],
+    "creators": [
+        {
+            "name": "Kristina-Pianykh"
+        },
+        {
+            "name": "Christoph Rzymski"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Ulrich Kleinewillingh\u00f6fer",
+            "type": "DataCollector"
+        }
+    ],
+    "communities": [
+        {
+            "identifier": "lexibank"
+        }
+    ],
+    "upload_type": "dataset",
+    "license": {
+        "id": "CC-BY-4.0"
+    }
+}

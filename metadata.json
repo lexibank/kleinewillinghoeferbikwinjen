@@ -2,8 +2,8 @@
     "id": "Kleinewillinghoeferbikwinjen",
     "title": "CLDF dataset derived from Kleinewillinghöfer's \"Bikwin-Jen Comparative Wordlist\" from 2015",
     "description": null,
-    "license": null,
-    "url": null,
+    "license": "CC-BY-4.0",
+    "url": "https://www.blogs.uni-mainz.de/fb07-adamawa/adamawa-languages/bikwin-jen-group/",
     "citation": null,
     "aboutUrl": null,
     "conceptlist": [
