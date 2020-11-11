@@ -2,6 +2,6 @@
 
 Name | GitHub user | Description | Role
 --- | --- | --- | ---
-Ulrich Kleinewillinghöfer | | data collection | DataCollector
-Kristina-Pianykh | @Kristina-Pianykh  | initial code | Author
-Christoph Rzymski | @chrzyki  | maintainer | Author
+Ulrich Kleinewillinghöfer | | data collection | DataCollector, Author
+Kristina-Pianykh | @Kristina-Pianykh  | initial code | Other
+Christoph Rzymski | @chrzyki  | patron, maintainer | Other

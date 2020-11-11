@@ -1,6 +1,7 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
     "aboutUrl": null,
+    "dc:bibliographicCitation": "Kleinewillingh\u00f6fer, Ulrich (2015). Bikwin-Jen Group. https://www.blogs.uni-mainz.de/fb07-adamawa/adamawa-languages/bikwin-jen-group/. Accessed on: 2020-04-15.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:format": [
         "http://concepticon.clld.org/contributions/Kleinewillinghoefer-2015-119",
@@ -18,7 +19,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/kleinewillinghoeferbikwinjen",
-            "dc:created": "f8d3e04"
+            "dc:created": "49a2228"
         },
         {
             "rdf:type": "prov:Entity",

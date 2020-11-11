@@ -1,5 +1,9 @@
 # CLDF dataset derived from Kleinewillinghöfer's "Bikwin-Jen Comparative Wordlist" from 2015
 
+Cite the source dataset as
+
+> Kleinewillinghöfer, Ulrich (2015). Bikwin-Jen Group. https://www.blogs.uni-mainz.de/fb07-adamawa/adamawa-languages/bikwin-jen-group/. Accessed on: 2020-04-15.
+
 This dataset is licensed under a CC-BY-4.0 license
 
 Available online at https://www.blogs.uni-mainz.de/fb07-adamawa/adamawa-languages/bikwin-jen-group/
@@ -26,8 +30,8 @@ Conceptlists in Concepticon:
 
 Name | GitHub user | Description | Role
 --- | --- | --- | ---
-Ulrich Kleinewillinghöfer | | data collection | DataCollector
-Kristina-Pianykh | @Kristina-Pianykh  | initial code | Author
-Christoph Rzymski | @chrzyki  | maintainer | Author
+Ulrich Kleinewillinghöfer | | data collection | DataCollector, Author
+Kristina-Pianykh | @Kristina-Pianykh  | initial code | Other
+Christoph Rzymski | @chrzyki  | patron, maintainer | Other
 
 

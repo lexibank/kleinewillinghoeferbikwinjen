@@ -7,16 +7,21 @@
     ],
     "creators": [
         {
-            "name": "Kristina-Pianykh"
-        },
-        {
-            "name": "Christoph Rzymski"
+            "name": "Ulrich Kleinewillingh\u00f6fer"
         }
     ],
     "contributors": [
         {
             "name": "Ulrich Kleinewillingh\u00f6fer",
             "type": "DataCollector"
+        },
+        {
+            "name": "Kristina-Pianykh",
+            "type": "Other"
+        },
+        {
+            "name": "Christoph Rzymski",
+            "type": "Other"
         }
     ],
     "communities": [
@@ -27,5 +32,6 @@
     "upload_type": "dataset",
     "license": {
         "id": "CC-BY-4.0"
-    }
+    },
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Kleinewillingh\u00f6fer, Ulrich (2015). Bikwin-Jen Group. https://www.blogs.uni-mainz.de/fb07-adamawa/adamawa-languages/bikwin-jen-group/. Accessed on: 2020-04-15.</p>\n</blockquote>"
 }
