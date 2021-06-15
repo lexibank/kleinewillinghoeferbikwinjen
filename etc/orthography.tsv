@@ -1,0 +1,534 @@
+Grapheme	IPA	Examples	Languages	Frequence	Codepoints
+^	NULL				
+$	NULL				
+_	+	yaŋ kap, ŋmá wa nèí	MungaDoso, LeeLau, Maghdi, Moo, DzaofKaigama, JooleofJooleManga, Joole, Burak, LeeMakofPanya, Kyak, LeeMakofZoo, LooofWaamura, LooofGaldemaru	100	U+005f
+^n	n	nyám, núŋ	LeeLau, LeeMakofPanya, Maghdi, LeeMakofZoo, Burak, JooleofJooleManga, DzaofKaigama, MungaDoso, Moo, LooofGaldemaru, Kyak, LooofWaamura, Joole	100	U+005e U+006e
+ŋ$	ŋ	núŋ, nə́ŋ	DzaofKaigama, LeeLau, Moo, MungaDoso, JooleofJooleManga, Kyak, LeeMakofZoo, LooofGaldemaru, Joole, LooofWaamura, LeeMakofPanya, Maghdi, Burak	100	U+014b U+0024
+n	n	güna, dùngò	DzaofKaigama, LeeLau, MungaDoso, JooleofJooleManga, Maghdi, Joole, LooofWaamura, Moo, LeeMakofPanya, LeeMakofZoo, Burak, LooofGaldemaru, Kyak	100	U+006e
+l	l	mɛ́ɛ́ lóó yílé, leeləɓei	Maghdi, LooofWaamura, Burak, LeeMakofPanya, LooofGaldemaru, LeeMakofZoo, Kyak, Moo, LeeLau, DzaofKaigama, MungaDoso, JooleofJooleManga	100	U+006c
+á	á/a	lákát, tálá mùrì	Maghdi, MungaDoso, Burak, LooofWaamura, LooofGaldemaru, Joole, JooleofJooleManga, DzaofKaigama, LeeLau, LeeMakofZoo, Moo, Kyak, LeeMakofPanya	100	U+00e1
+^l	l	lʊ́k, lei	LeeMakofZoo, LooofWaamura, LeeMakofPanya, Maghdi, Burak, LooofGaldemaru, MungaDoso, JooleofJooleManga, LeeLau, Kyak, Moo, Joole, DzaofKaigama	100	U+005e U+006c
+^k	k	káp, kúp	DzaofKaigama, Joole, MungaDoso, Burak, JooleofJooleManga, Kyak, Maghdi, LeeLau, LooofGaldemaru, LeeMakofPanya, LooofWaamura, Moo, LeeMakofZoo	100	U+005e U+006b
+ú	ú/u	núŋ, túlúŋ	Maghdi, Burak, LooofGaldemaru, LooofWaamura, Kyak, JooleofJooleManga, LeeLau, LeeMakofZoo, LeeMakofPanya, MungaDoso, DzaofKaigama, Moo, Joole	100	U+00fa
+p$	p	raap, píp	LeeMakofZoo, LeeMakofPanya, Kyak, Burak, LeeLau, LooofWaamura, Maghdi, LooofGaldemaru, Moo	100	U+0070 U+0024
+ŋ	ŋ	yaŋ kap, schwaa baŋ jüé	MungaDoso, Moo, Maghdi, Kyak, LeeMakofPanya, DzaofKaigama, LeeLau, LeeMakofZoo, JooleofJooleManga, Joole, LooofWaamura, Burak, LooofGaldemaru	100	U+014b
+í	í/i	kwín, píp	MungaDoso, LooofGaldemaru, LooofWaamura, Burak, Maghdi, Kyak, LeeMakofPanya, Moo, LeeLau, Joole, JooleofJooleManga, LeeMakofZoo, DzaofKaigama, MaghdiTala	100	U+00ed
+r	r	náárà, vɛɛrɛ	Burak, LooofGaldemaru, LooofWaamura, LeeMakofZoo, LeeMakofPanya, Kyak, LeeLau, Maghdi, DzaofKaigama, MungaDoso, Moo, KyakBambuka, JooleofJooleManga, MaghdiTala	100	U+0072
+k	k	lákát, a kpák kpàk	Burak, JooleofJooleManga, DzaofKaigama, LeeLau, MungaDoso, LeeMakofZoo, Joole, Moo, LooofGaldemaru, Kyak, LooofWaamura, Maghdi, LeeMakofPanya	100	U+006b
+a	a	ɗwaà, yaŋ kap	MungaDoso, LeeMakofPanya, DzaofKaigama, LeeLau, Maghdi, LooofGaldemaru, LeeMakofZoo, LooofWaamura, Burak, Moo, JooleofJooleManga, Joole, Kyak, LeelauMungaLeelau	100	U+0061
+^m	m	míí, mì	Burak, MungaDoso, LooofGaldemaru, Joole, Maghdi, JooleofJooleManga, DzaofKaigama, LeeMakofPanya, LooofWaamura, LeeLau, Moo, Kyak, LeeMakofZoo, JenofKaigamma, MaghdiTala, KyakBambuka, MooGomu, LeelauMungaLeelau	100	U+005e U+006d
+ì$	ì/i	mì, líì	MungaDoso, Joole, LeeLau, JooleofJooleManga, DzaofKaigama, LeeMakofZoo, LooofWaamura, LooofGaldemaru, Maghdi, Kyak, LeeMakofPanya, LeelauMungaLeelau, Burak, Moo	100	U+00ec U+0024
+u	u	vurum, shúbunuŋ	LeeMakofPanya, LeeLau, LooofWaamura, LooofGaldemaru, LeeMakofZoo, Burak, Kyak, MungaDoso, Maghdi, Moo, JooleofJooleManga, Joole, KyakBambuka, DzaofKaigama, LeelauMungaLeelau, MaghdiTala	99	U+0075
+y	y	hywáŋ hywà, nényà	MungaDoso, DzaofKaigama, JooleofJooleManga, Joole, LeeMakofZoo, LeeMakofPanya, Kyak, LeeLau, Burak, LooofGaldemaru, Moo, LooofWaamura, JenofKaigamma	98	U+0079
+à$	à/a	ɗwaà, náárà	MungaDoso, Joole, LeeLau, JooleofJooleManga, LeeMakofZoo, Maghdi, LooofGaldemaru, DzaofKaigama, LooofWaamura, LeeMakofPanya, Kyak, Burak, JenofKaigamma, LeelauMungaLeelau, Moo	87	U+00e0 U+0024
+^t	t	táŋ, táát	Burak, LeeMakofPanya, LeeMakofZoo, LooofGaldemaru, LooofWaamura, JooleofJooleManga, Kyak, Joole, DzaofKaigama, LeeLau, MungaDoso, Maghdi, Moo, KyakBambuka, LeelauMungaLeelau, MaghdiTala	84	U+005e U+0074
+é	é/e	déi, tʰéì	Maghdi, MungaDoso, Burak, LeeMakofPanya, DzaofKaigama, LeeMakofZoo, LeeLau, Joole, JooleofJooleManga, Kyak, Moo, LooofGaldemaru, LooofWaamura	81	U+00e9
+n$	n	kwín, nááshîn	Kyak, LeeMakofZoo, LeeLau, LeeMakofPanya, LooofGaldemaru, Maghdi, Burak, Moo, LooofWaamura, KyakBambuka, LeelauMungaLeelau, MaghdiTala, DzaofKaigama	76	U+006e U+0024
+aa	aː	raap, schwaa baŋ jüé	LeeMakofPanya, LeeMakofZoo, DzaofKaigama, Maghdi, Joole, LeeLau, LooofWaamura, KyakBambuka, Burak, LooofGaldemaru, Kyak, Moo, MungaDoso, JooleofJooleManga, LeelauMungaLeelau	74	U+0061 U+0061
+i	i	faa kwin ili suop, ʔiŋ viì	Burak, JooleofJooleManga, Kyak, LeeMakofPanya, MungaDoso, LeeMakofZoo, Maghdi, LooofGaldemaru, DzaofKaigama, JenofKaigamma, LooofWaamura, LeeLau, Moo, KyakBambuka	73	U+0069
+w	w	hywáŋ hywà, nywa	MungaDoso, DzaofKaigama, LeeMakofPanya, Burak, JooleofJooleManga, LeeMakofZoo, LooofGaldemaru, LooofWaamura, LeeLau, Maghdi, Joole, Moo, JenofKaigamma	72	U+0077
+b	b	gbâŋ, gbáŋ	JooleofJooleManga, MungaDoso, Kyak, DzaofKaigama, LeeLau, Maghdi, LooofWaamura, Moo, Joole, Burak, LooofGaldemaru, LeeMakofPanya, LeeMakofZoo, KyakBambuka, MooGomu, LeelauMungaLeelau	71	U+0062
+^ɓ	ɓ	ɓí, ɓî	Burak, LooofGaldemaru, LeeLau, LeeMakofPanya, LeeMakofZoo, LooofWaamura, Maghdi, Kyak, Moo, MungaDoso, KyakBambuka, LeelauMungaLeelau, MooGomu, MaghdiTala	68	U+005e U+0253
+ù	ù/u	dùl, dùm	LooofGaldemaru, LeeMakofZoo, JooleofJooleManga, LooofWaamura, Kyak, MungaDoso, Maghdi, LeeLau, LeeMakofPanya, Moo, Burak, DzaofKaigama, Joole	67	U+00f9
+m	m	təma, tálá mùrì	Kyak, Burak, LooofGaldemaru, DzaofKaigama, LeeLau, JooleofJooleManga, LooofWaamura, MungaDoso, Maghdi, Joole, LeeMakofPanya, LeeMakofZoo, Moo, JenofKaigamma	67	U+006d
+^w	w	wéé, wɐ̀	Burak, LeeMakofZoo, DzaofKaigama, Maghdi, LeeMakofPanya, LooofGaldemaru, LooofWaamura, JooleofJooleManga, Kyak, Moo, LeeLau, Joole, JenofKaigamma, MungaDoso	62	U+005e U+0077
+^b	b	bə, ba	DzaofKaigama, JooleofJooleManga, Joole, Kyak, Moo, Maghdi, LeeMakofPanya, MungaDoso, LooofGaldemaru, JenofKaigamma, LeeMakofZoo, LooofWaamura, LeeLau, Burak	58	U+005e U+0062
+á$	á/a	ná, naará	JooleofJooleManga, DzaofKaigama, Joole, Maghdi, Burak, LooofGaldemaru, LooofWaamura, LeeMakofZoo, LeeMakofPanya, LeeLau, Moo, Kyak, MungaDoso, MaghdiTala	55	U+00e1 U+0024
+^d	d	dùl, dùm	LooofGaldemaru, LooofWaamura, LeeMakofPanya, DzaofKaigama, LeeMakofZoo, Moo, Joole, Maghdi, Burak, JooleofJooleManga, Kyak, LeeLau, MungaDoso	52	U+005e U+0064
+áá	áá/aː	táát, nááshîn	Burak, Maghdi, DzaofKaigama, MaghdiTala, JenofKaigamma, LeeMakofZoo, LooofGaldemaru, Kyak, JooleofJooleManga, LeeMakofPanya, MungaDoso, LooofWaamura, LeeLau	52	U+00e1 U+00e1
+^f	f	fíì, fíí	LeeMakofZoo, LeeMakofPanya, Burak, Joole, Maghdi, LooofGaldemaru, JooleofJooleManga, DzaofKaigama, Moo, LooofWaamura, Kyak, LeeLau, MungaDoso	50	U+005e U+0066
+à	à/a	làŋ làù, raàp	JooleofJooleManga, Kyak, MungaDoso, LeeLau, LeeMakofZoo, LooofWaamura, LooofGaldemaru, Joole, LeeMakofPanya, Burak, Moo, Maghdi, KyakBambuka, DzaofKaigama, LeelauMungaLeelau	49	U+00e0
+ì	ì/i	ɓìlìŋ, ɓílìŋ	MungaDoso, LeeMakofZoo, LooofWaamura, LeeMakofPanya, Joole, JooleofJooleManga, Kyak, LeeLau, Moo, LooofGaldemaru, DzaofKaigama, Maghdi, Burak	49	U+00ec
+^y	y	yé, yéŋ kap	Maghdi, JooleofJooleManga, Joole, LooofGaldemaru, LooofWaamura, LeeLau, Burak, LeeMakofZoo, Kyak, Moo, DzaofKaigama, LeeMakofPanya, MungaDoso	48	U+005e U+0079
+^h	h	hnwitáa, hýwà	MungaDoso, DzaofKaigama, Joole, JenofKaigamma, JooleofJooleManga, Kyak, LeeLau	48	U+005e U+0068
+é$	é/e	yé, schwaa baŋ jüé	LooofGaldemaru, Maghdi, Joole, Burak, LooofWaamura, DzaofKaigama, JooleofJooleManga, LeeMakofPanya, LeeMakofZoo, Kyak, Moo	47	U+00e9 U+0024
+í$	í/i	ɓí, ní	LeeMakofPanya, Maghdi, Burak, JooleofJooleManga, DzaofKaigama, LeeLau, LeeMakofZoo, Joole, Kyak, MungaDoso, Moo	47	U+00ed U+0024
+a$	a	ba, ma	JooleofJooleManga, LeeMakofPanya, DzaofKaigama, Joole, LeeMakofZoo, LooofGaldemaru, MungaDoso, LooofWaamura, Kyak, LeeLau, KyakBambuka, JenofKaigamma, Moo	46	U+0061 U+0024
+^g	g	gbâŋ, gbáŋ	LeeLau, Burak, JooleofJooleManga, Kyak, LeeMakofPanya, LeeMakofZoo, Maghdi, KyakBambuka, LooofGaldemaru, LeelauMungaLeelau, Moo, DzaofKaigama, MooGomu, MungaDoso, MaghdiTala, LooofWaamura	46	U+005e U+0067
+i$	i	ɓi, déi	JooleofJooleManga, Kyak, DzaofKaigama, LeeLau, Maghdi, Burak, MungaDoso, Joole, KyakBambuka, LeeMakofPanya, JenofKaigamma, LeelauMungaLeelau, LeeMakofZoo, Moo	45	U+0069 U+0024
+ə	ə	leeləɓei, təma	LeeLau, MungaDoso, LeeMakofZoo, LeeMakofPanya, DzaofKaigama, Kyak, LeelauMungaLeelau, Joole, Maghdi, JooleofJooleManga, LooofGaldemaru, LooofWaamura	44	U+0259
+d	d	de ka de, jué didi	DzaofKaigama, Joole, JooleofJooleManga, Moo, LeeLau, Maghdi, Burak, Kyak, LeeMakofZoo, LooofGaldemaru, LooofWaamura, MungaDoso	43	U+0064
+t$	t	táát, nátát	Burak, LooofGaldemaru, LooofWaamura, LeeMakofPanya, LeeMakofZoo, Maghdi, MaghdiTala	43	U+0074 U+0024
+m$	m	nyám, lúm	LooofGaldemaru, Moo, Burak, Kyak, MungaDoso, LooofWaamura, Maghdi, LeeMakofZoo, LeeLau, LeeMakofPanya	43	U+006d U+0024
+h	h	bwááhywà, nɛ́hnwǜ	MungaDoso, DzaofKaigama, Joole, JenofKaigamma, JooleofJooleManga, LeeLau	42	U+0068
+g	g	yugùl, gónogònò	JooleofJooleManga, Maghdi, Burak, LooofGaldemaru, LooofWaamura, LeeLau, MungaDoso, Moo, Kyak, LeeMakofPanya, LeeMakofZoo, MaghdiTala, Joole	42	U+0067
+s	s	naasìn, laasaŋ	LeeMakofPanya, LeeMakofZoo, Kyak, LeeLau, Moo, LooofGaldemaru, DzaofKaigama, KyakBambuka, Burak, LeelauMungaLeelau	41	U+0073
+ó	ó/o	shóó̀p, nóòp	Maghdi, Kyak, JooleofJooleManga, LooofGaldemaru, LeeMakofPanya, LeeLau, Burak, LeeMakofZoo, Moo, LooofWaamura, KyakBambuka, MaghdiTala	40	U+00f3
+^ɗ	ɗ	ɗúr, ɗak	Kyak, Moo, Burak, LeeLau, LeeMakofZoo, Maghdi, LeeMakofPanya, LooofGaldemaru, MungaDoso, LooofWaamura	39	U+005e U+0257
+l$	l	tál, dùl	Burak, Maghdi, LeeLau, LeeMakofPanya, LeeMakofZoo, LooofGaldemaru, LooofWaamura, Kyak, Moo	38	U+006c U+0024
+p	p	kpáárạ̀, faa suop bo ráàp	DzaofKaigama, Kyak, LeeMakofZoo, Maghdi, LeeLau, Joole, Burak, LeeMakofPanya, LooofGaldemaru, LooofWaamura	36	U+0070
+ù$	ù/u	kə fúù, fúù	MungaDoso, Kyak, LeeLau, LeeMakofZoo, JooleofJooleManga, Burak, LeeMakofPanya, DzaofKaigama, LeelauMungaLeelau, Moo, Joole	34	U+00f9 U+0024
+^kw	kʷ	kwín, kwîn	LeeMakofPanya, LeeMakofZoo, Burak, LooofGaldemaru, DzaofKaigama, Joole, LooofWaamura, LeeLau, MungaDoso, Maghdi, KyakBambuka, Kyak, Moo	33	U+005e U+006b U+0077
+t	t	nátát, hnwitáa	JooleofJooleManga, Burak, Joole, DzaofKaigama, LooofGaldemaru, JenofKaigamma, MungaDoso, Maghdi, LooofWaamura, LeeLau, LeeMakofPanya, LeeMakofZoo, Moo	32	U+0074
+e$	e	zuwe, dwiile	Maghdi, DzaofKaigama, LeeMakofPanya, LooofWaamura, Burak, LooofGaldemaru, JenofKaigamma, JooleofJooleManga, Kyak, LeeLau, Moo	32	U+0065 U+0024
+e	e	ben, de ka de	Kyak, LeeMakofPanya, LeeMakofZoo, Maghdi, LeeLau, Moo, DzaofKaigama, LooofGaldemaru, LooofWaamura, MungaDoso, Joole	32	U+0065
+k$	k	lʊ́k, lok	Burak, LooofGaldemaru, LooofWaamura, Kyak, Maghdi, LeeLau, LeeMakofPanya, LeeMakofZoo, Moo	31	U+006b U+0024
+ò	ò/o	nóòp, gónogònò	Maghdi, LeeMakofZoo, MaghdiTala, Burak, LooofGaldemaru, LeeMakofPanya, MungaDoso, LooofWaamura, LeeLau, Joole	29	U+00f2
+è$	è/e	nírè, yiipè	Maghdi, DzaofKaigama, Kyak, LeeMakofZoo, LeeMakofPanya, Moo, Joole, JooleofJooleManga, MungaDoso, MaghdiTala	29	U+00e8 U+0024
+^s	s	suə̀p, sóŋ	Kyak, LeeMakofZoo, LeeLau, LeeMakofPanya, Moo, KyakBambuka, Burak, LeelauMungaLeelau, LooofGaldemaru, MungaDoso, LooofWaamura	29	U+005e U+0073
+ə́	ə́/ə	nə́ŋ, fə́k fə́k	DzaofKaigama, LeeMakofZoo, Joole, Moo, JooleofJooleManga, MungaDoso, Burak, LooofWaamura, Kyak, LeeMakofPanya, JenofKaigamma	29	U+0259 U+0301
+aa$	aː	naa, ŋwaa	LeeMakofPanya, DzaofKaigama, MungaDoso, Maghdi, Burak, LeeLau, Moo, LeeMakofZoo	28	U+0061 U+0061 U+0024
+f	f	á fú, kə fúù	DzaofKaigama, Joole, MungaDoso, Moo, Maghdi, LeeMakofZoo, Burak, LooofGaldemaru, JooleofJooleManga, LooofWaamura, Kyak, LeeLau, LeeMakofPanya	27	U+0066
+o	o	faa suop bo nuop, soŋ suəp	LeeMakofZoo, LeeMakofPanya, Burak, Kyak, LeeLau, Maghdi, MaghdiTala, MungaDoso, LeelauMungaLeelau, Moo	27	U+006f
+àà$	àà/aː	ŋwàà, ə́ swàà	Kyak, MungaDoso, LeeMakofZoo, Burak, DzaofKaigama, Maghdi, LeeLau, Moo, JooleofJooleManga, LeeMakofPanya	26	U+00e0 U+00e0 U+0024
+sh	sh/ʃ	nááshîn, níshin	Burak, LooofWaamura, Maghdi, LooofGaldemaru, LeeMakofZoo, JooleofJooleManga, Joole, DzaofKaigama, LeeLau, LeeMakofPanya, MungaDoso, MaghdiTala	25	U+0073 U+0068
+ɓ	ɓ	leeləɓei, liɓé	Maghdi, Burak, Kyak, LeeLau, LeeMakofPanya, LeeMakofZoo, Moo, LooofGaldemaru, LooofWaamura	24	U+0253
+^v	v	vɛɛrɛ, voo	Burak, LooofGaldemaru, LooofWaamura, Maghdi, MungaDoso, JooleofJooleManga, Kyak, LeeLau, LeeMakofPanya, LeeMakofZoo	23	U+005e U+0076
+â	â/a	gbâŋ, râp	LeeLau, LooofGaldemaru, LeeMakofPanya, LooofWaamura, Kyak, Moo, Maghdi, KyakBambuka, Burak, MooGomu, MungaDoso	22	U+00e2
+ìì$	ìì/iː	mìì, gwìì	DzaofKaigama, Moo, LeeMakofPanya, LooofGaldemaru, JooleofJooleManga, Burak, Joole, Kyak, LeeLau, LeeMakofZoo, LooofWaamura	22	U+00ec U+00ec U+0024
+íí$	íí/iː	píí, míí	DzaofKaigama, Burak, LeeLau, Moo, Maghdi, LeeMakofZoo, LooofWaamura, LooofGaldemaru, Joole, Kyak	22	U+00ed U+00ed U+0024
+kw	kʷ	naarə̀ŋ kwín, táŋ kwàm	Kyak, Burak, LeeMakofZoo, JooleofJooleManga, LeeMakofPanya, Moo, KyakBambuka, LeeLau, MungaDoso, Joole	20	U+006b U+0077
+áá$	áá/aː	náá, ɓáá	Maghdi, Kyak, LooofGaldemaru, LooofWaamura, LeeMakofPanya, Moo, Joole, KyakBambuka, Burak, LeeLau, LeeMakofZoo	20	U+00e1 U+00e1 U+0024
+è	è/e	nèt, néèt	Kyak, MungaDoso, Burak, LooofGaldemaru, LeeMakofPanya, Moo, LooofWaamura, Maghdi, DzaofKaigama, LeeLau	20	U+00e8
+ú$	ú/u	á fú, nú	JooleofJooleManga, DzaofKaigama, Joole, Kyak, LeeMakofZoo, Maghdi, LooofGaldemaru, LooofWaamura, LeeLau, LeeMakofPanya, Moo	20	U+00fa U+0024
+ɔ́	ɔ́/ɔ	tɔ́ŋ, ɓwɔ́k	Burak, Moo, Maghdi, LeeLau, LeeMakofPanya, LeeMakofZoo, LooofGaldemaru, Kyak, MungaDoso, LooofWaamura	20	U+0254 U+0301
+ə̀	ə̀/ə	á və̀rə̀m, naarə̀ŋ kwín	JooleofJooleManga, Moo, Kyak, DzaofKaigama, Joole, KyakBambuka, LeeLau, MungaDoso, LeeMakofZoo	19	U+0259 U+0300
+ei$	ei	lei, leeləɓei	LeeMakofPanya, LeeMakofZoo, Maghdi, LooofWaamura, LooofGaldemaru, LeeLau	19	U+0065 U+0069 U+0024
+ò$	ò/ɔ	gónogònò, boò	JooleofJooleManga, LooofGaldemaru, MungaDoso, Moo, LooofWaamura, Maghdi, Kyak, DzaofKaigama, LeeLau, LeeMakofPanya, MaghdiTala	19	U+00f2 U+0024
+yí	yí/j i	mɛ́ɛ́ lóó yílé, nyínná	MungaDoso, Burak, JooleofJooleManga, LooofGaldemaru, Kyak, DzaofKaigama, LooofWaamura, Maghdi, Moo	19	U+0079 U+00ed
+ə$	ə	bə, ɗuurə	DzaofKaigama, LooofWaamura, LeeMakofPanya, Joole, MungaDoso, LeeMakofZoo, JenofKaigamma	19	U+0259 U+0024
+^bw	b w	bwáányà, bwááhmə̀	DzaofKaigama, JenofKaigamma, JooleofJooleManga, Joole	19	U+005e U+0062 U+0077
+^r	r	raap, râp	KyakBambuka, Burak, LooofGaldemaru, Kyak, LeeLau, LeeMakofPanya, LeelauMungaLeelau, LeeMakofZoo, Moo, LooofWaamura	18	U+005e U+0072
+^á	á/a	á və̀rə̀m, á fú	Kyak, JooleofJooleManga, Maghdi, LeeLau, Moo, Burak, Joole, LooofWaamura	17	U+005e U+00e1
+^p	p	píí, píp	Burak, DzaofKaigama, Maghdi, LeeMakofPanya, LeeMakofZoo, LooofGaldemaru, LooofWaamura, MungaDoso, Joole	17	U+005e U+0070
+ə̀$	ə̀/ə	bwááhmə̀, ífə̀	Joole, DzaofKaigama, JooleofJooleManga, LeeMakofPanya, JenofKaigamma, MungaDoso, LeeMakofZoo	17	U+0259 U+0300 U+0024
+^sh	sh/ʃ	shóó̀p, shʊ́ʊ́p	LooofGaldemaru, LooofWaamura, Burak, Maghdi	17	U+005e U+0073 U+0068
+uo	uo	faa suop bo nuop, buoŋ	LeeMakofPanya, LeeMakofZoo, JenofKaigamma, DzaofKaigama	17	U+0075 U+006f
+ü	ü/y	lyüé, schwaa baŋ jüé	MungaDoso, LeeMakofZoo, JooleofJooleManga, LeeMakofPanya, Joole, Maghdi, LooofGaldemaru, LooofWaamura, DzaofKaigama	16	U+00fc
+ǘ	ǘ/y	yǘnúŋ, hun xǘà bwáána íʔyù	MungaDoso, Joole, JooleofJooleManga, Maghdi, LooofWaamura, DzaofKaigama, LeeMakofPanya, LeeMakofZoo	16	U+01d8
+^dh	dh/dʱ	dhɔ̀ɔ̀, dhem kwín dyú sùəp	LeeLau, Kyak	16	U+005e U+0064 U+0068
+ә́	ə	nә́ŋ pyɛ́nә́ŋ, ɓә́ŋ	DzaofKaigama, Joole, MungaDoso, Moo, LooofGaldemaru, LeeLau, LooofWaamura	15	U+04d9 U+0301
+ii	iː	nii gòò, dwiile	Burak, LooofGaldemaru, LooofWaamura, MungaDoso, LeeMakofZoo, DzaofKaigama	15	U+0069 U+0069
+ee	eː	leeləɓei, leegùl	LeeMakofPanya, LeeMakofZoo, Maghdi, LeeLau, Burak, Kyak, MungaDoso, Moo, Joole	15	U+0065 U+0065
+v	v	á və̀rə̀m, kə́ vùrùm	JooleofJooleManga, Moo, MungaDoso, Joole, DzaofKaigama, Kyak, LeeLau, LeeMakofPanya, LeeMakofZoo	15	U+0076
+nw	n w	nɛ́hnwǜ, hnwitsúŋ	DzaofKaigama, JenofKaigamma, MungaDoso, Kyak	15	U+006e U+0077
+î$	î/i	ɓî, mî	MungaDoso, Maghdi, DzaofKaigama, LeeLau, MaghdiTala, Kyak, MooGomu, Moo	15	U+00ee U+0024
+ɛ́$	ɛ́	laa mɛ́, mwɛ́	Burak, LooofWaamura, LooofGaldemaru, Kyak, Maghdi	14	U+025b U+0301 U+0024
+^j	j	jué tàti, jì	JooleofJooleManga, Maghdi, Burak, Joole, LooofGaldemaru, Kyak, MungaDoso, Moo	14	U+005e U+006a
+ii$	iː	lii, nii	LeeLau, Moo, Kyak, LooofGaldemaru, LooofWaamura, DzaofKaigama, LeeMakofPanya, Joole	14	U+0069 U+0069 U+0024
+ə́$	ə́	ɓə́, yaalə́	DzaofKaigama, Joole, LooofGaldemaru, LeeMakofZoo, JooleofJooleManga, LeeMakofPanya	14	U+0259 U+0301 U+0024
+òò$	òò/oː	lòò, nii gòò	Kyak, Moo, Maghdi, LeeLau, Burak, LooofGaldemaru, LeeMakofZoo, LooofWaamura	14	U+00f2 U+00f2 U+0024
+éé	éé/eː	néét, kwéélée	Maghdi, Kyak, Burak, DzaofKaigama, MaghdiTala	13	U+00e9 U+00e9
+yú	y/j ú/j	suəp ɗyú ninyúŋ, ninyúŋ	Kyak, KyakBambuka, Burak, LooofGaldemaru, DzaofKaigama, JenofKaigamma, LooofWaamura	13	U+0079 U+00fa
+j	j/dʒ	schwaa baŋ jüé, cwáá jòì	DzaofKaigama, Joole, Kyak, Maghdi, Burak, LooofGaldemaru, LooofWaamura	13	U+006a
+z	z	ńdzə̀ŋ, swààzìì	DzaofKaigama, Moo, MungaDoso, Joole	13	U+007a
+yá	y/j á/a	nyám, nyáŋ nùŋ	LeeMakofZoo, LooofWaamura, Maghdi, LooofGaldemaru, JooleofJooleManga, Joole, Kyak, LeeLau, LeeMakofPanya, MungaDoso, Moo	13	U+0079 U+00e1
+^sw	s w	swàà, swaazwí	LeeLau, Kyak, Moo, LeeMakofPanya, Burak	13	U+005e U+0073 U+0077
+^ts	t s	tsə́ŋ, tsə̂ŋ	DzaofKaigama, Joole, MungaDoso, JenofKaigamma	13	U+005e U+0074 U+0073
+î	î	nááshîn, bîn	Burak, Kyak, LeeLau, Maghdi, Moo, MaghdiTala	13	U+00ee
+uə	u ə	suəp, soŋ suəp	LeeLau, Kyak, LeelauMungaLeelau, KyakBambuka	13	U+0075 U+0259
+o$	o	támo, ɓo	Burak, LeeLau, LeeMakofZoo, JooleofJooleManga, LooofGaldemaru, LeeMakofPanya, LooofWaamura	12	U+006f U+0024
+^nw	n w	nwi, nwíí	Joole, Kyak, DzaofKaigama, Maghdi, Burak, JooleofJooleManga, MungaDoso, Moo, LooofWaamura	12	U+005e U+006e U+0077
+^mw	m w	mwộ, mwɔ̂	LeeMakofZoo, LeeMakofPanya, Kyak, LeeLau, MungaDoso, Joole	12	U+005e U+006d U+0077
+ts	ts	hnwitsúŋ, hwí tsùŋ	MungaDoso, DzaofKaigama, Joole, JenofKaigamma	12	U+0074 U+0073
+ɛ$	ɛ	vɛɛrɛ, ɓʊrɛ	LooofGaldemaru, LooofWaamura, Burak, Kyak	11	U+025b U+0024
+^a	a	a vṵ̀, a láá	Moo, JooleofJooleManga, Kyak	11	U+005e U+0061
+àà	àà/aː	tsàà kú, swààzìì	Burak, JooleofJooleManga, Kyak, LeeMakofZoo, Moo, Joole	11	U+00e0 U+00e0
+éé$	éé/eː	wéé, luluwéé	Burak, LooofGaldemaru, LooofWaamura, Maghdi, DzaofKaigama, MungaDoso	11	U+00e9 U+00e9 U+0024
+^í	í/i	íì, ífə̀	DzaofKaigama, MungaDoso, Joole, Kyak, LeeLau, LeelauMungaLeelau	11	U+005e U+00ed
+^ɗw	ɗ w	ɗwaà, ɗwín	Kyak, Maghdi, Burak, LooofGaldemaru, LeeLau, LeeMakofPanya, MungaDoso, LeeMakofZoo, Moo, LooofWaamura	11	U+005e U+0257 U+0077
+^z	z	zuwe, zìì	Moo, LeeLau, LeeMakofPanya, Burak, Kyak	11	U+005e U+007a
+ʊ́	ʊ́/ʊ	lʊ́k, kʊ́kɔ̀	Burak, LooofGaldemaru, LooofWaamura	10	U+028a U+0301
+ɛ́	ɛ́/ɛ	nɛ́hnwǜ, fɛ́k	Burak, LeeLau, MungaDoso	10	U+025b U+0301
+^hw	h w	hwí ʔyú, hwí tsùŋ	Joole, MungaDoso, DzaofKaigama	10	U+005e U+0068 U+0077
+^yá	y/j á/a	yáŋ ka, yáŋ	Kyak, LeeLau, MungaDoso, LooofGaldemaru, JooleofJooleManga, DzaofKaigama, Joole	10	U+005e U+0079 U+00e1
+íí	íí/iː	níínít, víínúŋ láú	Burak, Maghdi, LooofGaldemaru, JooleofJooleManga, Moo, LooofWaamura	10	U+00ed U+00ed
+ùù$	ùù/uː	yùù, tùù	DzaofKaigama, LeeLau, MungaDoso, Moo, Maghdi	10	U+00f9 U+00f9 U+0024
+ʌ$	ʌ	mʌ, wʌ	LeeLau, DzaofKaigama, LeelauMungaLeelau, JenofKaigamma	10	U+028c U+0024
+ɔ	ɔ	gɔŋnà, kɔŋ laxa	LeeMakofPanya, LeeMakofZoo, Burak, LooofGaldemaru, DzaofKaigama, LeeLau, Moo, LooofWaamura	10	U+0254
+ɛ̀$	ɛ̀	naarɛ̀, náárɛ̀	Burak, JooleofJooleManga, Maghdi, KyakBambuka, Kyak	10	U+025b U+0300 U+0024
+jw	j w	djwa, swáá jwèè	DzaofKaigama, Joole, JooleofJooleManga, Burak	10	U+006a U+0077
+ó$	ó/o	nuŋ ló, yó	JooleofJooleManga, Kyak, LeeLau, LeeMakofPanya, Moo	9	U+00f3 U+0024
+ê$	ê/e	ɓê, yaa dzwê	LeeMakofPanya, LeeMakofZoo, Maghdi, Kyak, MungaDoso, Moo, Joole	9	U+00ea U+0024
+^tw	t w	twɪ́ɪ́, twín	LooofGaldemaru, Joole, LooofWaamura, Burak, LeeLau, LeeMakofZoo	9	U+005e U+0074 U+0077
+^yi	y/j i	yiɓé, yile	MungaDoso, Kyak, Moo, Maghdi, LooofWaamura	9	U+005e U+0079 U+0069
+^e	e	e mí, ehywü	DzaofKaigama, Joole, Maghdi, MungaDoso	9	U+005e U+0065
+zw	z w	swaazwí, yaa dzwê	Joole, Kyak, LeeLau, LeeMakofPanya, MungaDoso, LeeMakofZoo	9	U+007a U+0077
+ʊ	ʊ	dʊka láú, ɓʊrɛ	Burak, LooofGaldemaru, DzaofKaigama, LooofWaamura, Moo	9	U+028a
+^c	c	cuòp, cì	Maghdi, MungaDoso, Joole, DzaofKaigama, MaghdiTala, Moo	9	U+005e U+0063
+â$	â/a	mâ, naarâ	DzaofKaigama, LeeMakofZoo, MooGomu, LeeLau, MungaDoso, Moo	8	U+00e2 U+0024
+ɗ	ɗ	yéɗit, suəp ɗyú ninyúŋ	Burak, Maghdi, LooofGaldemaru, DzaofKaigama, Kyak, LeeLau, LeeMakofZoo	8	U+0257
+^ya	y/j a	yaŋ kap, yaŋ kʌ́	Moo, Maghdi, Burak, JooleofJooleManga, LeeLau, LeeMakofPanya, LeeMakofZoo	8	U+005e U+0079 U+0061
+ǜ	y	ɓwéí nè yǜnùŋ, yǜywà	MungaDoso, JooleofJooleManga, LooofWaamura, Joole	8	U+01dc
+-	+	ee-, éé-	Joole, Burak, DzaofKaigama, MungaDoso	8	U+002d
+ʌ́$	ʌ́/ʌ	nʌ́, yaŋ kʌ́	Joole, LeeMakofPanya, LeeLau, DzaofKaigama	8	U+028c U+0301 U+0024
+x	x	kɔŋ laxa, hun xǘà bwáána íʔyù	MungaDoso, LeeMakofPanya	8	U+0078
+^ŋw	ŋ w	ŋwàà, ŋwaà	Kyak, LeeLau, Moo, MungaDoso, Joole	8	U+005e U+014b U+0077
+ɛ́ɛ́$	ɛ́ɛ́/ɛː	mɛ́ɛ́, lɛ́ɛ́	Burak, LooofGaldemaru, Kyak, Moo, LooofWaamura	8	U+025b U+0301 U+025b U+0301 U+0024
+úú$	úú/uː	fúú, núú	LeeLau, Maghdi, LooofGaldemaru, DzaofKaigama, LeelauMungaLeelau, LooofWaamura	8	U+00fa U+00fa U+0024
+ɛ́ɛ́	ɛ́ɛ́/ɛː	mɛ́ɛ́ lóó yílé, nɛ́ɛ́ weelé	Burak, LooofGaldemaru, LooofWaamura	8	U+025b U+0301 U+025b U+0301
+ʔ	ʔ	hwí ʔyú, néʔyù	MungaDoso, JenofKaigamma, DzaofKaigama	8	U+0294
+ɛɛ$	ɛː	nɛɛ, tɛɛ	Kyak, KyakBambuka, MungaDoso, Burak	7	U+025b U+025b U+0024
+ə̂	ə̂/ə	tsə̂ŋ, ínhyanə̂ŋ	MungaDoso, Joole, DzaofKaigama	7	U+0259 U+0302
+èè$	èè/eː	kɔ́ŋ vèè, swáá jwèè	Maghdi, Burak, JooleofJooleManga, MungaDoso, Moo	7	U+00e8 U+00e8 U+0024
+á̰$	á̰/a	ká̰ nw̰á̰, hḭ́á̰	Joole, JooleofJooleManga	7	U+00e1 U+0330 U+0024
+uu	uː	ɗuurə, duu lua	LeeMakofPanya, LeeMakofZoo, Maghdi, Joole	7	U+0075 U+0075
+b$	b	noòb, kúób	Maghdi, Burak, MaghdiTala	7	U+0062 U+0024
+ʊ̀	ʊ̀/ʊ	vʊ̀rʊ̀m, dʊ̀l	Burak, LeeLau, LooofGaldemaru, LooofWaamura	7	U+028a U+0300
+^ɓw	ɓ w	ɓwɔ́k, ɓwéí nè yǜnùŋ	LooofWaamura, Burak, LooofGaldemaru, Kyak, LeeLau, MungaDoso	7	U+005e U+0253 U+0077
+óó	óó/oː	mɛ́ɛ́ lóó yílé, lóóbi	JooleofJooleManga, LooofGaldemaru, LeeMakofPanya, LeeMakofZoo, Moo, LooofWaamura	7	U+00f3 U+00f3
+oo$	oo/oː	voo, loo	Burak, LooofGaldemaru, LooofWaamura, Maghdi	7	U+006f U+006f U+0024
+^cw	c w	cwín, cwáá	Maghdi, MaghdiTala	7	U+005e U+0063 U+0077
+yi	y/j i	wuri yile, nyinyi	Maghdi, JooleofJooleManga, DzaofKaigama, LeeMakofPanya, MungaDoso, Moo, Joole	7	U+0079 U+0069
+^yii	y/j iː	yiiré, yiira	LeeMakofPanya, LeeMakofZoo, DzaofKaigama, LeeLau, Moo	7	U+005e U+0079 U+0069 U+0069
+áú$	áú/au	dʊka láú, víínúŋ láú	LooofGaldemaru, LooofWaamura, Maghdi, LeeMakofPanya	7	U+00e1 U+00fa U+0024
+^yu	y u	yugùl, yuluŋ	LeeMakofPanya, Maghdi, LooofGaldemaru, LeeMakofZoo, LooofWaamura	6	U+005e U+0079 U+0075
+r$	r	ɗúr, fàr	Kyak, LeeLau, LeeMakofPanya, MungaDoso, LeeMakofZoo, Moo	6	U+0072 U+0024
+^i	i	ihnyanə̂ŋ, idyǘá	Joole, DzaofKaigama, Maghdi	6	U+005e U+0069
+ya	y/j a	ínhyanə̂ŋ, a yaŋka	Burak, DzaofKaigama, JooleofJooleManga, Joole	6	U+0079 U+0061
+á̰	á̰/a	ká̰ nw̰á̰, nwá̰ dwí	Joole, DzaofKaigama	6	U+00e1 U+0330
+^gw	g w	gwìì, gwɪ̀ɪ̀	Moo, Burak, LooofGaldemaru, Kyak, LooofWaamura	6	U+005e U+0067 U+0077
+^ee	eː	eeté, eefàfə̀	DzaofKaigama, Joole	6	U+005e U+0065 U+0065
+ḭ$	ḭ	yḭ, hywḭ	Joole, JooleofJooleManga, DzaofKaigama	6	U+1e2d U+0024
+ɗw	ɗ w	yeeɗwaa, muŋ ɗwí	MungaDoso, Maghdi, LeeMakofPanya, Moo	6	U+0257 U+0077
+?$	NULL	loŋ?, víí ?	Burak, JooleofJooleManga, LeeMakofZoo, LeeMakofPanya	6	U+003f U+0024
+^shw	sh/ʃ w	shwáá, shwìyè	LeeMakofZoo, Burak, LooofGaldemaru, LooofWaamura	6	U+005e U+0073 U+0068 U+0077
+uu$	uː	fuu, duu	Maghdi, Moo, Burak, LeeMakofZoo	6	U+0075 U+0075 U+0024
+ui	ui	builə, mui kya	LeeMakofZoo, LeeMakofPanya, DzaofKaigama	6	U+0075 U+0069
+à̰$	à̰/a̰	ka̰ya̰ká̰yà̰, kuú xǜyà̰	MungaDoso, Joole	6	U+00e0 U+0330 U+0024
+ǝ	ə	ɓǝ tɛ́na, nǝŋ léè	DzaofKaigama, LeeLau	5	U+01dd
+ệ$	ệ/e	náálệ, ná dùnệ	Maghdi, KyakBambuka, JooleofJooleManga, LeeLau, MaghdiTala	5	U+1ec7 U+0024
+^ŋ	ŋ	ŋə nuŋ, ŋma díŋ	DzaofKaigama, LeeMakofPanya, MungaDoso, LeeMakofZoo, Moo	5	U+005e U+014b
+ɛɛ	ɛː	vɛɛrɛ, fɛɛni	Burak, LooofGaldemaru, LooofWaamura, DzaofKaigama	5	U+025b U+025b
+^tshw	tsʰ w	tshwa̰le, tshwötshwí	DzaofKaigama	5	U+005e U+0074 U+0073 U+0068 U+0077
+bw	b w	dhem suəp bwáá ninyúŋ, hun xǘà bwáána íʔyù	Kyak, MungaDoso, Joole	5	U+0062 U+0077
+^yee	y/j eː	yeeɗwaa, yeekâp	LeeMakofPanya, Maghdi, LeeMakofZoo	5	U+005e U+0079 U+0065 U+0065
+^th	tʰ	thə̰, tháŋ	DzaofKaigama, Kyak, LeeLau	5	U+005e U+0074 U+0068
+ui$	ui	wáp mwui, baŋ le mui	DzaofKaigama, LeeMakofZoo, LeeMakofPanya, Moo	5	U+0075 U+0069 U+0024
+a̰$	a̰	tsüha̰, ńza̰	DzaofKaigama, Joole	5	U+0061 U+0330 U+0024
+^ɛ	ɛ	ɛrɛ nuŋ, ɛrɛnɪ	LooofGaldemaru, LooofWaamura	5	U+005e U+025b
+ɛ	ɛ	ɛrɛ nuŋ, ɛrɛnɪ	LooofGaldemaru, LooofWaamura	5	U+025b
+ʌ̀$	ʌ̀/ʌ	bwáátʌ̀, èetswʌ̀	Moo, Joole, JenofKaigamma	5	U+028c U+0300 U+0024
+ḭ́	ḭ́/ḭ	hwḭ hwḭ́ṵ̀, hḭ́á̰	Joole, MungaDoso, JooleofJooleManga	5	U+1e2d U+0301
+ḭ	ḭ	hnyḭ máánə̀, hwḭ hwḭ́ṵ̀	Joole, DzaofKaigama, JooleofJooleManga	5	U+1e2d
+ê	ê/e	wuri kên, lyêm	LeeMakofZoo, Maghdi, MungaDoso, Moo	5	U+00ea
+ìì	ìì/i	nììnììt, nìì gwaa	LooofGaldemaru, LeeMakofPanya	5	U+00ec U+00ec
+yii	y/j iː	nyii nyiifə̀, nyiinì	DzaofKaigama, LeeMakofZoo, LeeMakofPanya, LooofWaamura	5	U+0079 U+0069 U+0069
+ei	ei	kweilé, mei gáq	Maghdi, LooofGaldemaru, LeeLau, LeeMakofPanya, LooofWaamura	5	U+0065 U+0069
+^tʰ	tʰ	tʰéì, tʰál	Maghdi, LeeLau, LeeMakofZoo, LeeMakofPanya	5	U+005e U+0074 U+02b0
+ùw	ù w	wúl lùwàà, nə́ŋ lùwì	Maghdi, Burak, LeeMakofZoo, MungaDoso	5	U+00f9 U+0077
+^lw	l w	lwé lwia̰, lwàà	Burak, DzaofKaigama, LeeLau, MungaDoso, Joole	5	U+005e U+006c U+0077
+oo	oː	voolè, loo lə́ lòò	Moo, Maghdi, LeeMakofPanya, DzaofKaigama	5	U+006f U+006f
+à̰à̰$	à̰à̰/aː	tà̰à̰, nəhà̰à̰	MungaDoso, JooleofJooleManga, Joole	5	U+00e0 U+0330 U+00e0 U+0330 U+0024
+uə̀	u ə̀/ə	suə̀p, suə̀p dín nùwòp	LeeMakofZoo, KyakBambuka, Kyak	5	U+0075 U+0259 U+0300
+û	û	kûŋ, dûl	Burak, LeeMakofPanya, Moo	4	U+00fb
+u$	u	nuŋu, tsə tséé pu	DzaofKaigama, LeeMakofZoo, LeeMakofPanya	4	U+0075 U+0024
+ɔ̀$	ɔ̀	mɔ̀, kʊ́kɔ̀	Burak, LooofGaldemaru, LooofWaamura	4	U+0254 U+0300 U+0024
+ô$	ô	mô, wô	Maghdi, MungaDoso, MaghdiTala	4	U+00f4 U+0024
+ʌ̂$	ʌ̂	mʌ̂	MungaDoso, Moo, DzaofKaigama	4	U+028c U+0302 U+0024
+ṵ̈	ṵ̈	hṵ̈ḭ, ŋwún hṵ̈a̰	Joole, DzaofKaigama	4	U+1e75 U+0308
+th	tʰ	gaa thá, yithí	Kyak, LeeLau	4	U+0074 U+0068
+dh	dʱ	yii dhá, á dhèn	LeeLau, Kyak	4	U+0064 U+0068
+cw	c w	ɗwàl cwâp, cúcwì	Maghdi, MungaDoso, Moo, Kyak	4	U+0063 U+0077
+^ń	ń/n̩	ńdzə̀ŋ, ńzʌ̰	DzaofKaigama	4	U+005e U+0144
+ɣ	ɣ	láɣá, yéé láɣá	Maghdi, LooofGaldemaru, LeeMakofZoo	4	U+0263
+ṵ̀$	ṵ̀/ṵ	bwàà dṵ̀, hwḭ hwḭ́ṵ̀	JooleofJooleManga, Joole	4	U+1e75 U+0300 U+0024
+^dw	d w	dwiile, dwaŋ	MungaDoso, LooofGaldemaru, Burak, LooofWaamura	4	U+005e U+0064 U+0077
+áa$	áa/aː	hnwitáa, h̰ywáa	DzaofKaigama, Burak, JenofKaigamma	4	U+00e1 U+0061 U+0024
+òò	òò/oː	fòò dywà, lòònyì	Joole, JooleofJooleManga, LeeMakofZoo	4	U+00f2 U+00f2
+ḭ́$	ḭ́/ḭ	hṵ̈̀hwḭ́, ṵ̈̀hwḭ́	Joole, JooleofJooleManga	4	U+1e2d U+0301 U+0024
+hw	h w	hwḭ hwḭ́ṵ̀, húhwí	Joole, MungaDoso, JooleofJooleManga	4	U+0068 U+0077
+ǜ$	ǜ/y	nɛ́hnwǜ, hywáhywǜ	MungaDoso	4	U+01dc U+0024
+ɔ̀	ɔ̀/ɔ	lɔ̀à, mmɔ̀ djii	DzaofKaigama, LooofGaldemaru, Joole, LooofWaamura	4	U+0254 U+0300
+ɪ́$	ɪ́/ɪ	nɪ́, yɪɪlɪ́	LooofGaldemaru, LooofWaamura	4	U+026a U+0301 U+0024
+ə̂$	ə̂/ə	mə̂, ɗə̂	LeeMakofZoo, MungaDoso, Moo	4	U+0259 U+0302 U+0024
+nn	nː	nyínná, nánnyá	JooleofJooleManga, LooofGaldemaru, LooofWaamura	4	U+006e U+006e
+ɪ$	ɪ	mɪ, ɛrɛnɪ	Burak, LooofGaldemaru, LooofWaamura	4	U+026a U+0024
+sw	s w	ə́ swàà, lóo swàà	LeeLau, Kyak	4	U+0073 U+0077
+yú$	y/j ú/u	hwí ʔyú, nánnyú	MungaDoso, JooleofJooleManga	4	U+0079 U+00fa U+0024
+^yá$	y/j á/a	yá	Maghdi, MaghdiTala, Kyak	3	U+005e U+0079 U+00e1 U+0024
+^ya$	y/j a/a	ya	Burak, Moo	3	U+005e U+0079 U+0061 U+0024
+ɛ̂$	ɛ̂/ɛ	ɓɛ̂, gun nɛ̂	Kyak, Joole	3	U+025b U+0302 U+0024
+ḛ$	ḛ	hḛ, ńsḛ	LeeLau, JooleofJooleManga, DzaofKaigama	3	U+1e1b U+0024
+θ	θ	bə θi, tə́ θá̰	JooleofJooleManga	3	U+03b8
+á̰á̰	á̰á̰/a̰ː	le kpá̰á̰lì, koŋ wá̰á̰ sənà	LeeLau, JooleofJooleManga, LeeMakofZoo	3	U+00e1 U+0330 U+00e1 U+0330
+a̰a̰	a̰a̰/a̰ː	la̰a̰le, ka̰a̰fìì	Maghdi, DzaofKaigama	3	U+0061 U+0330 U+0061 U+0330
+ô	ô/o	tsôm, ɓó tôp	Maghdi, MungaDoso	3	U+00f4
+tsw	ts w	pʊ tswɐ̰́, nii tswáni	DzaofKaigama, MungaDoso, Joole	3	U+0074 U+0073 U+0077
+^tsw	ts w	tswʌ̀, tswéyáŋ	Joole	3	U+005e U+0074 U+0073 U+0077
+ɛ́ɛ$	ɛ́ɛ/ɛ	líshɛ́ɛ, ɓɛ́ɛ	Burak	3	U+025b U+0301 U+025b U+0024
+íy	í/i j	eéyéè íyé, híyà	LeeLau, MungaDoso, DzaofKaigama	3	U+00ed U+0079
+^ii	iː	ii yéé, iidshwá	MungaDoso, DzaofKaigama	3	U+005e U+0069 U+0069
+ḛ̀$	ḛ̀/ḛ	kááhyḛ̀, énsḛ̀	LeeLau, Joole, DzaofKaigama	3	U+1e1b U+0300 U+0024
+yáá	y/j áá/aː	nyááŋgə̀, nyááká búbáí	JooleofJooleManga	3	U+0079 U+00e1 U+00e1
+áí$	áí/ai	nyááká búbáí, kóótáí	JooleofJooleManga	3	U+00e1 U+00ed U+0024
+ya$	y/j	mui kya, mwui kya	JooleofJooleManga, LeeMakofPanya, LeeMakofZoo	3	U+0079 U+0061 U+0024
+^èè$	èè/eː	èè, èè-	Joole, MungaDoso	3	U+005e U+00e8 U+00e8 U+0024
+^ye	y/j e	yenə́ŋ, yeŋ kap	Maghdi, LeeMakofPanya, Joole	3	U+005e U+0079 U+0065
+ɪ́ɪ́$	ɪ́ɪ́/ɪː	twɪ́ɪ́, wɪ́ɪ́	Burak, LooofGaldemaru, LooofWaamura	3	U+026a U+0301 U+026a U+0301 U+0024
+^zw	z w	zwìì, zwen	Kyak, LeeMakofZoo	3	U+005e U+007a U+0077
+ḭ̀$	ḭ̀/ḭ	hṵ̈̀ḭ̀, kányḭ̀	Joole, Kyak	3	U+1e2d U+0300 U+0024
+ʊʊ	ʊː	fwáá shʊʊp, kʊʊkʊ́	Burak, DzaofKaigama	3	U+028a U+028a
+ksw	k s w	ɗɔ́kswì, dɔkswíì	LeeLau, LeeMakofPanya, Kyak	3	U+006b U+0073 U+0077
+úú	úú/uː	lúúrì, lúúri	Burak, LooofGaldemaru, LooofWaamura	3	U+00fa U+00fa
+dw	d w	mwəŋ dwiyéè, kádwì	MungaDoso, Joole	3	U+0064 U+0077
+c	c	láácòŋ, kwan cínà	Maghdi, MaghdiTala, DzaofKaigama	3	U+0063
+gw	g w	nii gwáà, nìì gwaa	LeeMakofZoo, LeeMakofPanya	3	U+0067 U+0077
+mw	m w	mmwa djìì, mmwə́ŋà djwî	DzaofKaigama, LeeMakofZoo	3	U+006d U+0077
+iy	i y/j	shiyà wulé, mwəŋ dwiyéè	MungaDoso, LooofGaldemaru, LooofWaamura	3	U+0069 U+0079
+ua$	u a	duu lua, lua	LeeMakofPanya, LeeMakofZoo	3	U+0075 U+0061 U+0024
+^ə	ə	ə lə́ə́̀, əríì	LeeLau, MungaDoso, Moo	3	U+005e U+0259
+^ð	ð	ðà, ðá̰á̰ nyú	JooleofJooleManga	3	U+005e U+00f0
+^ʔ	ʔ	ʔe, ʔiŋ viì	MungaDoso, JenofKaigamma, DzaofKaigama	3	U+005e U+0294
+ḭ̀	ḭ̀/ḭ	hwḭ̀ nyìə̀, hwḭ̀ tʌ́	Joole	3	U+1e2d U+0300
+ia̰$	i a̰	lia̰, lwé lwia̰	Joole	3	U+0069 U+0061 U+0330 U+0024
+^íí	íí/iː	ííbìàŋ, íí mə̀ŋ	MungaDoso, Moo	3	U+005e U+00ed U+00ed
+ɐ̀$	ɐ̀/ɐ	wɐ̀, bwáátɐ̀	MungaDoso, Moo, DzaofKaigama	3	U+0250 U+0300 U+0024
+^ú	ú/u	úù, úwə́	LeeLau, LeelauMungaLeelau, LeeMakofPanya	3	U+005e U+00fa
+ɔ$	ɔ	mɔ	LooofGaldemaru, LooofWaamura	3	U+0254 U+0024
+ó̀	ò/o	shóó̀p	LooofGaldemaru, LooofWaamura	3	U+00f3 U+0300
+^fw	f w	fwáá shʊʊp, fwáá kwîn ɗii ɓá shʊʊp	Burak	3	U+005e U+0066 U+0077
+ǒ	ǒ/o	kǒŋ	LooofGaldemaru, LeeMakofZoo	2	U+01d2
+ɔ́$	ɔ́/ɔ	kɔ́ŋɔ́, a kɔ́	Moo	2	U+0254 U+0301 U+0024
+ai$	ai	wai, jué nai	JooleofJooleManga, LooofWaamura	2	U+0061 U+0069 U+0024
+ɛ́ɛ̀$	ɛ́ɛ̀/ɛː	nәŋ wɛ́ɛ̀, hḭḭ lɛ́ɛ̀	MungaDoso, Kyak	2	U+025b U+0301 U+025b U+0300 U+0024
+á̰á̰$	á̰á̰/a̰ː	pə tá̰á̰, kángá̰á̰	MungaDoso, DzaofKaigama	2	U+00e1 U+0330 U+00e1 U+0330 U+0024
+ɔ́ɔ́	ɔ́ɔ́/ɔː	tuwɔ́ɔ́p	LooofGaldemaru, LooofWaamura	2	U+0254 U+0301 U+0254 U+0301
+ɐ	ɐ	tshwɐnì, lɐlə́	DzaofKaigama	2	U+0250
+ésh	é sh/ʃ	lééshèè, yééshei	Maghdi	2	U+00e9 U+0073 U+0068
+ye$	y/j e	lishye, leesye	LeeMakofPanya	2	U+0079 U+0065 U+0024
+^yáy	y/j á/a y/j	yáyìsi, yáyìɓe	Moo	2	U+005e U+0079 U+00e1 U+0079
+ìs	ì/i s	yìsí, yáyìsi	LeeLau, Moo	2	U+00ec U+0073
+^ey	e y/j	eyìdshwá, eyéè	DzaofKaigama	2	U+005e U+0065 U+0079
+éh	é/e h	léhéí, ééhṵ̈ḭ	MungaDoso, Joole	2	U+00e9 U+0068
+ʌ̀	ʌ̀/ʌ	eéfʌ̀nə, lʌ̀lə́	Joole, DzaofKaigama	2	U+028c U+0300
+^è	è/e	èfò, èetswʌ̀	MungaDoso, Joole	2	U+005e U+00e8
+^yú	y/j ú/u	yúnúŋ, yú kà	Burak, Joole	2	U+005e U+0079 U+00fa
+yúú$	y/j úú/uː	nyúú, bíyáŋ nyúú	Moo	2	U+0079 U+00fa U+00fa U+0024
+h̰w	h̰ w	ih̰wui, eh̰wui	DzaofKaigama	2	U+0068 U+0330 U+0077
+ü$	ü/y	ehywü, éhwü	MungaDoso, DzaofKaigama	2	U+00fc U+0024
+^yí	y/j í	yíhüì, yí bia̰	MungaDoso, Joole	2	U+005e U+0079 U+00ed
+^é	é	énsḛ̀, ééhṵ̈ḭ	LeeLau, Joole	2	U+005e U+00e9
+dshw	d sh/ʃ w	eyìdshwá, iidshwá	DzaofKaigama	2	U+0064 U+0073 U+0068 U+0077
+ye	y/j e	ɗyem yǘlùŋ, byenìŋ	MungaDoso, LeeMakofPanya	2	U+0079 U+0065
+ɔɔ	ɔː	kɔɔlɛ, mpɔɔká	DzaofKaigama, LooofWaamura	2	U+0254 U+0254
+ộ	ộ/o	bwộŋ, kwộŋ	LeeMakofZoo, DzaofKaigama	2	U+1ed9
+ɔ̀ɔ̀	ɔ̀ɔ̀/ɔ	mɛ́ɛ́ tɔ̀ɔ̀rít, mpɔ̀ɔ̀ ká	Burak, Joole	2	U+0254 U+0300 U+0254 U+0300
+^ŋ̀	ŋ̀/ŋ̍	ŋ̀kwàŋ kà, ŋ̀gyíŋ	JooleofJooleManga	2	U+005e U+014b U+0300
+ee$	eː	ywee, tee	Maghdi, Moo	2	U+0065 U+0065 U+0024
+ṵ	ṵ	hywṵi, mṵn wáyí	LeeLau, DzaofKaigama	2	U+1e75
+ṵ̈̀	ṵ̈̀	hṵ̈̀ḭ̀, hwá̰ hṵ̈̀à̰	Joole	2	U+1e75 U+0308 U+0300
+ʊ́$	ʊ́	kʊʊkʊ́, kʊkʊ́	DzaofKaigama	2	U+028a U+0301 U+0024
+^ee$	eː	ee-	Joole	2	U+005e U+0065 U+0065 U+0024
+n̄$	n̄/n̩	wɪ́n̄, lín̄	Burak	2	U+006e U+0304 U+0024
+ḛ	ḛ	lwḛ hywa̰, dhḛŋ	LeeLau, DzaofKaigama	2	U+1e1b
+rr$	rː	ndurr, ɗurr	LeeLau	2	U+0072 U+0072 U+0024
+yu	y/j u	tyunga, nyuwaa	Maghdi, JooleofJooleManga	2	U+0079 U+0075
+ạ̀$	ạ̀/a	kpáárạ̀	LooofGaldemaru, LooofWaamura	2	U+1ea1 U+0300 U+0024
+ʌ́	ʌ́	eekʌ́pùù, kʌ́pùù	DzaofKaigama	2	U+028c U+0301
+úu$	ú/u	fúu	Burak, LeeMakofPanya	2	U+00fa U+0075 U+0024
+^jw	j/dʒ w	jwíì, jwèè	Maghdi, MungaDoso	2	U+005e U+006a U+0077
+íi$	íi/iː	míi, níi	Burak	2	U+00ed U+0069 U+0024
+óó$	óó/oː	ɗóó, nyin góó	Maghdi, Moo	2	U+00f3 U+00f3 U+0024
+yíí$	y/j íí/iː	nyíí	Moo, DzaofKaigama	2	U+0079 U+00ed U+00ed U+0024
+^mm	mː	mmɔ̀ djii, mmə́ŋ	DzaofKaigama	2	U+005e U+006d U+006d
+yá$	y/j á	míkyá, nánnyá	JooleofJooleManga	2	U+0079 U+00e1 U+0024
+q$	q	mei gáq, wili gâq	Maghdi	2	U+0071 U+0024
+chw	ch/tʃ w	schwaa baŋ jüé	LooofGaldemaru, LooofWaamura	2	U+0063 U+0068 U+0077
+^h̰	h̰	h̰ywáa, h̰ywáah̰ywì	DzaofKaigama	2	U+005e U+0068 U+0330
+h̰	h̰	h̰ywáah̰ywì, ne h̰yà	DzaofKaigama	2	U+0068 U+0330
+^ch	ch/tʃ	chǘá, chíì	MungaDoso, Joole	2	U+005e U+0063 U+0068
+^ǘhw	ǘ/y h w	ǘhwì, ǘhwìì	Joole, DzaofKaigama	2	U+005e U+01d8 U+0068 U+0077
+ɛ̀ɛ̀$	ɛ̀ɛ̀/ɛ	níŋ lɛ̀ɛ̀, bwɛ̀ɛ̀	JooleofJooleManga, Moo	2	U+025b U+0300 U+025b U+0300 U+0024
+^yɪɪ	y/j ɪɪ/ɪː	yɪɪlɪ́	LooofGaldemaru, LooofWaamura	2	U+005e U+0079 U+026a U+026a
+ḭḭ	ḭḭ/iː	hḭḭ lɛ́ɛ̀, hḭḭlə́	Joole, Kyak	2	U+1e2d U+1e2d
+ṵ́$	ṵ́/ṵ	á hṵ́, á fṵ́	JooleofJooleManga, Joole	2	U+1e75 U+0301 U+0024
+ɪɪ	ɪː	cɪɪlə́, kwɪɪ xhá	DzaofKaigama	2	U+026a U+026a
+úə$	ú/u ə	núə	LeeMakofZoo, LeeMakofPanya	2	U+00fa U+0259 U+0024
+^ɛ́	ɛ́/ɛ	ɛ́rɛ́ nà, ɛ́rɛ́ nʊ́ŋ	Burak	2	U+005e U+025b U+0301
+au	au	lau kə láù	LeeMakofZoo	2	U+0061 U+0075
+lw	l w	lwé lwia̰, nə́ŋ lwe	Joole, DzaofKaigama	2	U+006c U+0077
+^yaa	y/j aː	yaa dzwê, yaalə́	Joole, DzaofKaigama	2	U+005e U+0079 U+0061 U+0061
+^yə́$	y/j ə́	yə́	LeeMakofZoo, LeeMakofPanya	2	U+005e U+0079 U+0259 U+0301 U+0024
+au$	au	lau	Maghdi, LeeMakofPanya	2	U+0061 U+0075 U+0024
+^ə́	ə́/ə	ə́ swàà	LeeLau, Kyak	2	U+005e U+0259 U+0301
+^ó	ó/o	ó tsàà̰, ó táúyáŋ	Joole	2	U+005e U+00f3
+^úú	úú/uː	úú jè, úú gʌ̀	Moo, Kyak	2	U+005e U+00fa U+00fa
+ɪ̀$	ɪ̀/ɪ	mɪ̀	LooofGaldemaru	2	U+026a U+0300 U+0024
+ɔ̂$	ɔ̂/ɔ	mwɔ̂	LeeMakofZoo, LeeMakofPanya	2	U+0254 U+0302 U+0024
+^úú$	úú/uː	úú	KyakBambuka, Kyak	2	U+005e U+00fa U+00fa U+0024
+^íí$	íí/iː	íí	KyakBambuka, Kyak	2	U+005e U+00ed U+00ed U+0024
+ayi$	a y/j i	tayi	LeeLau, LeelauMungaLeelau	2	U+0061 U+0079 U+0069 U+0024
+èè	èè/eː	nèèt	LeeMakofZoo	2	U+00e8 U+00e8
+ʊʊ̀	ʊ̀ː/ʊː	nʊʊ̀p	Burak	2	U+028a U+028a U+0300
+a̰ya̰	a̰ y/j a̰	ka̰ya̰ká̰yà̰	MungaDoso	2	U+0061 U+0330 U+0079 U+0061 U+0330
+á̰y	á̰ y/j	ka̰ya̰ká̰yà̰	MungaDoso	2	U+00e1 U+0330 U+0079
+yáá$	y/j áá/aː	hnwinyáá	JenofKaigamma, DzaofKaigama	2	U+0079 U+00e1 U+00e1 U+0024
+ʊ́ʊ́	ʊ́ʊ́/ʊː	shʊ́ʊ́p	Burak	2	U+028a U+0301 U+028a U+0301
+ýw	ý/y w	hýwà	MungaDoso	2	U+00fd U+0077
+ộ$	ộ/o	mwộ	LeeMakofZoo, LeeMakofPanya	2	U+1ed9 U+0024
+ә́$	ә́/ə	nǝŋ nә́	DzaofKaigama	1	U+04d9 U+0301 U+0024
+ǝ$	ə	wǝ	LeeMakofZoo	1	U+01dd U+0024
+^yyaa$	yy/jː aː	yyaa	Moo	1	U+005e U+0079 U+0079 U+0061 U+0061 U+0024
+ә	ə	nәŋ wɛ́ɛ̀	MungaDoso	1	U+04d9
+^aya$	a y/j a	aya	JooleofJooleManga	1	U+005e U+0061 U+0079 U+0061 U+0024
+^yo$	y o	yo	Burak	1	U+005e U+0079 U+006f U+0024
+^yɛ$	y ɛ	yɛ	LooofGaldemaru	1	U+005e U+0079 U+025b U+0024
+^yyɛ$	yː ɛ	yyɛ	LooofWaamura	1	U+005e U+0079 U+0079 U+025b U+0024
+^yo	y/j o	yoŋû	Kyak	1	U+005e U+0079 U+006f
+û$	û/u	yoŋû	Kyak	1	U+00fb U+0024
+ʊ̀$	ʊ̀/ʊ	yaŋʊ̀	Moo	1	U+028a U+0300 U+0024
+^yáú	y/j áú/au	yáúŋ	LeeLau	1	U+005e U+0079 U+00e1 U+00fa
+^ns	n s	nsê	Moo	1	U+005e U+006e U+0073
+ɛ̰$	ɛ̰	hɛ̰	Joole	1	U+025b U+0330 U+0024
+nh	n h	ínhyanə̂ŋ	Joole	1	U+006e U+0068
+o̰o̰$	o̰o̰/o̰ː	go̰o̰	Kyak	1	U+006f U+0330 U+006f U+0330 U+0024
+á̰á$	á̰á/a̰ː	ká̰ ká̰á	Joole	1	U+00e1 U+0330 U+00e1 U+0024
+ệ	ệ/e	gwện	Kyak	1	U+1ec7
+ŋw	ŋ w	múŋwì	JooleofJooleManga	1	U+014b U+0077
+ɔ̂	ɔ̂/ɔ	tɔ̂p	Burak	1	U+0254 U+0302
+^ìsh	ì/i sh/ʃ	ìshè	Maghdi	1	U+005e U+00ec U+0073 U+0068
+yee$	y/j eː	lishyee	LeeMakofZoo	1	U+0079 U+0065 U+0065 U+0024
+eyy$	e yː/jː	leesheyy	LeeMakofZoo	1	U+0065 U+0079 U+0079 U+0024
+^yáay	y/j áa/aː y/j	yáayìthi	Kyak	1	U+005e U+0079 U+00e1 U+0061 U+0079
+^yie$	y/j i e	yie	Joole	1	U+005e U+0079 U+0069 U+0065 U+0024
+^éé	éé/eː	ééyìè	Joole	1	U+005e U+00e9 U+00e9
+^yááyú$	y/j áá/aː y/j ú/u	yááyú	Kyak	1	U+005e U+0079 U+00e1 U+00e1 U+0079 U+00fa U+0024
+^yáyúú$	y/j á/a y/j úú/uː	yáyúú	Moo	1	U+005e U+0079 U+00e1 U+0079 U+00fa U+00fa U+0024
+^yááyúú$	y/j áá/aː y/j úú/uː	yááyúú	LeeLau	1	U+005e U+0079 U+00e1 U+00e1 U+0079 U+00fa U+00fa U+0024
+^yuu	y/j uː	yuu liɓé	LooofGaldemaru	1	U+005e U+0079 U+0075 U+0075
+uá	u á/a	luálibə	LooofWaamura	1	U+0075 U+00e1
+^yááy	y/j áá/aː y	yááyìɓe	Kyak	1	U+005e U+0079 U+00e1 U+00e1 U+0079
+ɛ́í$	ɛ́í/ɛi	yìɓɛ́í	LeeLau	1	U+025b U+0301 U+00ed U+0024
+ɛi$	ɛi	yáɓɛi	LeeLau	1	U+025b U+0069 U+0024
+^eei	eːi	eeibwì	Joole	1	U+005e U+0065 U+0065 U+0069
+ə̰$	ə̰	thə̰	LeeLau	1	U+0259 U+0330 U+0024
+^θ	θ	θíŋ	JooleofJooleManga	1	U+005e U+03b8
+^yeey	y/j ee/eː y/j	yeeyǘlùŋ	Maghdi	1	U+005e U+0079 U+0065 U+0065 U+0079
+^yeeyu	y/j ee/eː y/j u	yeeyuluŋ	LeeMakofPanya	1	U+005e U+0079 U+0065 U+0065 U+0079 U+0075
+^éhw	é/e h w	éhwü	DzaofKaigama	1	U+005e U+00e9 U+0068 U+0077
+eyi	e y/j i	leyihüì	MungaDoso	1	U+0065 U+0079 U+0069
+ṵ́	ṵ́/u	idjṵ́á̰	Joole	1	U+1e75 U+0301
+^éé$	éé/eː	éé-	Joole	1	U+005e U+00e9 U+00e9 U+0024
+^ńs	ń/n̩ s	ńsḛ	LeeLau	1	U+005e U+0144 U+0073
+ns	n s	énsḛ̀	LeeLau	1	U+006e U+0073
+ʌ̰$	ʌ̰	ńzʌ̰	DzaofKaigama	1	U+028c U+0330 U+0024
+ɛ̰́$	ɛ̰́	sɛ̰́	MungaDoso	1	U+025b U+0330 U+0301 U+0024
+^nsh	n sh/ʃ	nshɛ̂	Joole	1	U+005e U+006e U+0073 U+0068
+ɐ́ɐ$	ɐ́ɐ/ɐː	kɐ́ɐ	DzaofKaigama	1	U+0250 U+0301 U+0250 U+0024
+^èè	èè/eː	èèkʌ́	Joole	1	U+005e U+00e8 U+00e8
+yɛ́	y/j ɛ́/ɛ	nә́ŋ pyɛ́nә́ŋ	DzaofKaigama	1	U+0079 U+025b U+0301
+ŋ́	ŋ́/ŋ̍	nəŋ́ pyà	Joole	1	U+014b U+0301
+ùù	ùù/uː	nùù ná	Joole	1	U+00f9 U+00f9
+m̀	m̀/m̩	yǘm̀ kaa	DzaofKaigama	1	U+006d U+0300
+.	NULL	kwáŋ k.	LeeMakofPanya	1	U+002e
+m̀$	m̀/m̩	nyam̀	Burak	1	U+006d U+0300 U+0024
+yʌ̰́$	y/j ʌ̰́/ɑ	hnyʌ̰́	DzaofKaigama	1	U+0079 U+028c U+0330 U+0301 U+0024
+yʌ̰$	y/j ʌ̰	hnyʌ̰	DzaofKaigama	1	U+0079 U+028c U+0330 U+0024
+ie$	i e	nie	JooleofJooleManga	1	U+0069 U+0065 U+0024
+ʌ	ʌ	gbʌŋ yyè	DzaofKaigama	1	U+028c
+yy	yː	gbʌŋ yyè	DzaofKaigama	1	U+0079 U+0079
+ɪ́	ɪ́/ɪ	wɪ́n̄	Burak	1	U+026a U+0301
+ǘw	y w	lyǘwén	LeeMakofZoo	1	U+01d8 U+0077
+ṵ̂$	ṵ̂/u	kaa hnyṵ̂	MungaDoso	1	U+1e75 U+0302 U+0024
+ð	ð	ka ðiŋ	JooleofJooleManga	1	U+00f0
+ɐ́	ɐ́/ɐ	dɐ́m yùlùŋ	LooofGaldemaru	1	U+0250 U+0301
+ia	i a	biaŋ	Kyak	1	U+0069 U+0061
+íyá	í/i y/j á	bíyáŋ nyúú	Moo	1	U+00ed U+0079 U+00e1
+aá	áː/aː	tsaá iyyè	DzaofKaigama	1	U+0061 U+00e1
+iyy	i yː/jː	tsaá iyyè	DzaofKaigama	1	U+0069 U+0079 U+0079
+ḛ̀	ḛ̀/ḛ	gyḛ̀ ḭ́nyḛ́	JooleofJooleManga	1	U+1e1b U+0300
+ḛ́$	ḛ́/ḛ	gyḛ̀ ḭ́nyḛ́	JooleofJooleManga	1	U+1e1b U+0301 U+0024
+^ʒ	ʒ	ʒànkò	JooleofJooleManga	1	U+005e U+0292
+úə́$	ú/u ə́/ə	kúə́	Joole	1	U+00fa U+0259 U+0301 U+0024
+íi	íi/iː	twíi ?	Burak	1	U+00ed U+0069
+ö	ö/øː	tshwötshwí	DzaofKaigama	1	U+00f6
+tshw	tsh/tsʰ w	tshwötshwí	DzaofKaigama	1	U+0074 U+0073 U+0068 U+0077
+^tʃw	tʃ w	tʃwü tʃwí	Joole	1	U+005e U+0074 U+0283 U+0077
+tʃw	tʃ w	tʃwü tʃwí	Joole	1	U+0074 U+0283 U+0077
+nw̰	n w	ká̰ nw̰á̰	Joole	1	U+006e U+0077 U+0330
+yua$	y/j u a	kányua	JooleofJooleManga	1	U+0079 U+0075 U+0061 U+0024
+ʌ̰́$	ʌ̰́	lʌ̰́	DzaofKaigama	1	U+028c U+0330 U+0301 U+0024
+úyá	ú y/j á	léúyáŋ	JooleofJooleManga	1	U+00fa U+0079 U+00e1
+ɔ́ɔ́$	ɔ́ɔ́/ɔ	nii gɔ́ɔ́	Burak	1	U+0254 U+0301 U+0254 U+0301 U+0024
+yii$	y/j iː	nyii	Maghdi	1	U+0079 U+0069 U+0069 U+0024
+yi$	y/j i	nyinyi	Joole	1	U+0079 U+0069 U+0024
+íə́$	í/i ə́/ə	fíə́	JooleofJooleManga	1	U+00ed U+0259 U+0301 U+0024
+^hw̰	h w̰	hw̰ì hw̰í	DzaofKaigama	1	U+005e U+0068 U+0077 U+0330
+hw̰	h w̰	hw̰ì hw̰í	DzaofKaigama	1	U+0068 U+0077 U+0330
+ṵ̈̀hw	ṵ̈̀/y̰ h w	hṵ̈̀hwḭ́	Joole	1	U+1e75 U+0308 U+0300 U+0068 U+0077
+^ṵ̈̀hw	ṵ̈̀/y h w	ṵ̈̀hwḭ́	Joole	1	U+005e U+1e75 U+0308 U+0300 U+0068 U+0077
+^ǹ	ǹ/n̩	ǹzə̀ŋ	Joole	1	U+005e U+01f9
+ooyíí$	oo/oː y/j íí/iː	mùŋ looyíí	Kyak	1	U+006f U+006f U+0079 U+00ed U+00ed U+0024
+áyí$	á/a y/j í/i	mṵn wáyí	LeeLau	1	U+00e1 U+0079 U+00ed U+0024
+^shóó̀p	sh/ʃ óó/oː p
+tsàà̰	ts àà̰/a̰ː
+suə̀p	s u ə̀/ə p
+-$	NULL
+^-	NULL
+ʌ́ʌ̀	ʌ́ʌ̀/ʌː	mʌ́ʌ̀ dzwè	Joole	1	U+028c U+0301 U+028c U+0300
+yɛ̀	y/j ɛ̀/ɛ	mə̀ŋ yɛ̀ràwà	JooleofJooleManga	1	U+0079 U+025b U+0300
+àw	à/a w	mə̀ŋ yɛ̀ràwà	JooleofJooleManga	1	U+00e0 U+0077
+áa	áa/aː	h̰ywáah̰ywì	DzaofKaigama	1	U+00e1 U+0061
+tch	tsch/tʃ	tschî	DzaofKaigama	1	U+0063 U+0068
+^ü	ü/y	üɸwì	DzaofKaigama	1	U+005e U+00fc
+ɸw	ɸ w	üɸwì	DzaofKaigama	1	U+0278 U+0077
+yúá$	y/j ú/u á/a	ɗyúá	Kyak	1	U+0079 U+00fa U+00e1 U+0024
+^dʒw	dʒ w	dʒwaà	DzaofKaigama	1	U+005e U+0064 U+0292 U+0077
+ɪ̀ɪ̀$	ɪ̀ɪ̀/ɪː	gwɪ̀ɪ̀	Burak	1	U+026a U+0300 U+026a U+0300 U+0024
+dʒw	dʒ w	foo dʒwaa	DzaofKaigama	1	U+0064 U+0292 U+0077
+a̰	a̰	tshwa̰le	DzaofKaigama	1	U+0061 U+0330
+ɪ́ɪ$	ɪ́ɪ/ɪː	kwɪ́ɪ	Burak	1	U+026a U+0301 U+026a U+0024
+ou	ou	lou tal	LeeMakofZoo	1	U+006f U+0075
+^ḿ	ḿ/m̩	ḿvì	DzaofKaigama	1	U+005e U+1e3f
+^n̄	n̄/n̩	n̄vìì	Joole	1	U+005e U+006e U+0304
+yɪ́	y/j ɪ́/ɪ	nyɪ́n	LooofGaldemaru	1	U+0079 U+026a U+0301
+ʒ	ʒ	á ʒèè	JooleofJooleManga	1	U+0292
+ŋh	ŋ h	ka múŋhṵ̀	Joole	1	U+014b U+0068
+ai	ai	mai loi	Maghdi	1	U+0061 U+0069
+oi$	oi	mai loi	Maghdi	1	U+006f U+0069 U+0024
+yɛ̀$	y/j ɛ̀/ɛ	mə́ŋ pɔ̀ŋyɛ̀	Joole	1	U+0079 U+025b U+0300 U+0024
+ií$	íː/iː	jií	JooleofJooleManga	1	U+0069 U+00ed U+0024
+ɐ̰́$	ɐ̰́	pʊ tswɐ̰́	DzaofKaigama	1	U+0250 U+0330 U+0301 U+0024
+á̰a̰	á̰a̰/aː	tá̰a̰lé	DzaofKaigama	1	U+00e1 U+0330 U+0061 U+0330
+^yɪ	y/j ɪ	yɪlâ	DzaofKaigama	1	U+005e U+0079 U+026a
+^yiyi$	y/j i y/j i	yiyi	JooleofJooleManga	1	U+005e U+0079 U+0069 U+0079 U+0069 U+0024
+iyə́$	i y/j ə́/ə	hiyə́	Joole	1	U+0069 U+0079 U+0259 U+0301 U+0024
+áí	áí/ai	kwáínì	MungaDoso	1	U+00e1 U+00ed
+^ŋ́	ŋ́/ŋ̍	ŋ́kúkwə́	JooleofJooleManga	1	U+005e U+014b U+0301
+iiy	iː y/j	ciiyàŋ	MungaDoso	1	U+0069 U+0069 U+0079
+yɔ́	y/j ɔ́/ɔ	nyɔ́-lɛ́	Burak	1	U+0079 U+0254 U+0301
+yɔ́ɔ́$	y/j ɔ́ɔ́/ɔː	nyɔ́ɔ́	Maghdi	1	U+0079 U+0254 U+0301 U+0254 U+0301 U+0024
+ia$	i a	ɓia	LeeLau	1	U+0069 U+0061 U+0024
+eia̰$	ei a̰	beia̰	Joole	1	U+0065 U+0069 U+0061 U+0330 U+0024
+ɐ́$	ɐ́/ɐ	lɐ́	Moo	1	U+0250 U+0301 U+0024
+^ii$	iː	ii	LeeLau	1	U+005e U+0069 U+0069 U+0024
+ayá	a y/j á/a	bayá yípò	DzaofKaigama	1	U+0061 U+0079 U+00e1
+^ye$	y/j e	ye	JooleofJooleManga	1	U+005e U+0079 U+0065 U+0024
+áʊ$	áʊ/aʊ	sii ka láʊ	Burak	1	U+00e1 U+028a U+0024
+^o	o	o búíyá	DzaofKaigama	1	U+005e U+006f
+úíyá$	úí/ui y/j á/a	o búíyá	DzaofKaigama	1	U+00fa U+00ed U+0079 U+00e1 U+0024
+íá$	í/i á/a	bwíá	Joole	1	U+00ed U+00e1 U+0024
+^yaa$	y/j aː	yaa	DzaofKaigama	1	U+005e U+0079 U+0061 U+0061 U+0024
+^ɛɛ	ɛː	ɛɛ mùŋ	Kyak	1	U+005e U+025b U+025b
+^áí	áí/ai	áí mùn	LeeLau	1	U+005e U+00e1 U+00ed
+^yyi	yy/jː i	yyi mməŋ	DzaofKaigama	1	U+005e U+0079 U+0079 U+0069
+mm	mm/mː	yyi mməŋ	DzaofKaigama	1	U+006d U+006d
+^yíí	y/j íí/iː	yíí mə́ŋ	Joole	1	U+005e U+0079 U+00ed U+00ed
+aá$	áː/aː	taá	LeeMakofPanya	1	U+0061 U+00e1 U+0024
+ɔ̀ɔ̀$	ɔ̀ɔ̀/ɔː	dhɔ̀ɔ̀	Kyak	1	U+0254 U+0300 U+0254 U+0300 U+0024
+óh$	ó/o h	hóh	DzaofKaigama	1	U+00f3 U+0068 U+0024
+d$	d	də́d	JooleofJooleManga	1	U+0064 U+0024
+^yí$	y/j í	yí	Burak	1	U+005e U+0079 U+00ed U+0024
+yí$	y/j í	á yí	Maghdi	1	U+0079 U+00ed U+0024
+h$	h	wúh	DzaofKaigama	1	U+0068 U+0024
+yá̰$	y/j á̰/a	lwe xǜyá̰	MungaDoso	1	U+0079 U+00e1 U+0330 U+0024
+á̰yá̰$	á̰/a̰ y/j á̰/a̰	lé há̰yá̰	Joole	1	U+00e1 U+0330 U+0079 U+00e1 U+0330 U+0024
+áú	áú/au	láú á tɛ̀	JooleofJooleManga	1	U+00e1 U+00fa
+ə́ə́̀$	ə́ə̀/əː	ə lə́ə́̀	Moo	1	U+0259 U+0301 U+0259 U+0301 U+0300 U+0024
+xh	xh/x	kwɪɪ xhá	DzaofKaigama	1	U+0078 U+0068
+uú	úː/uː	kuú xǜyà̰	MungaDoso	1	U+0075 U+00fa
+üh	ü/y h	tsüha̰	Joole	1	U+00fc U+0068
+áúyá	áú/au y/j á/a	ó táúyáŋ	Joole	1	U+00e1 U+00fa U+0079 U+00e1
+ɛ́ɪ̀$	ɛ́ɪ̀/ɛi	gɛ́ɪ̀	LeeMakofPanya	1	U+025b U+0301 U+026a U+0300 U+0024
+^ʊ	ʊ	ʊ géì	LeeLau	1	U+005e U+028a
+^ɔ	ɔ	ɔ sá	DzaofKaigama	1	U+005e U+0254
+^yɐ́$	y/j ɐ́/ɐ	yɐ́	LeeMakofPanya	1	U+005e U+0079 U+0250 U+0301 U+0024
+uɔ$	u ɔ	buɔ	Joole	1	U+0075 U+0254 U+0024
+ɛ́yá$	ɛ́/ɛ y/j á/a	nɛ́yá	JooleofJooleManga	1	U+025b U+0301 U+0079 U+00e1 U+0024
+yə̀$	y/j ə̀/ə	bwaanyə̀	Joole	1	U+0079 U+0259 U+0300 U+0024
+yuu	y/j uː	suəp yuu núú	LeeLau	1	U+0079 U+0075 U+0075
+ǘ$	ǘ/y	hun hnwǘ	MungaDoso	1	U+01d8 U+0024
+^yʌ́$	y/j ʌ́/ʌ	yʌ́	LeeMakofPanya	1	U+005e U+0079 U+028c U+0301 U+0024
+^xw	x w	xwáŋ xǜa	MungaDoso	1	U+005e U+0078 U+0077
+^x	x	xǘà	MungaDoso	1	U+005e U+0078

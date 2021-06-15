@@ -19,6 +19,6 @@ setup(
             "kleinewillinghoeferbikwinjen=lexibank_kleinewillinghoeferbikwinjen:Dataset",
         ]
     },
-    install_requires=["pylexibank>=2.1"],
+    install_requires=["pylexibank>=3"],
     extras_require={"test": ["pytest-cldf"],},
 )

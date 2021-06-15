@@ -19,6 +19,7 @@ class Dataset(pylexibank.Dataset):
         brackets={"(": ")"},
         separators=(";", "/", ",", "~", "("),
         missing_data=("", " "),
+        replacements=[(" ?", "")], 
         strip_inside_brackets=True,
     )
 
