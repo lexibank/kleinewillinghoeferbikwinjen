@@ -13,12 +13,12 @@
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "CLDF dataset derived from Kleinewillingh\u00f6fer's \"Bikwin-Jen Comparative Wordlist\" from 2015",
-    "dcat:accessURL": "https://github.com/lexibank/Kleinewillinghoeferbikwinjen",
+    "dcat:accessURL": "https://github.com/lexibank/kleinewillinghoeferbikwinjen",
     "prov:wasDerivedFrom": [
         {
-            "rdf:about": "https://github.com/lexibank/Kleinewillinghoeferbikwinjen",
+            "rdf:about": "https://github.com/lexibank/kleinewillinghoeferbikwinjen",
             "rdf:type": "prov:Entity",
-            "dc:created": "7fe6aa2",
+            "dc:created": "c7447bb",
             "dc:title": "Repository"
         },
         {
@@ -34,16 +34,20 @@
             "dc:title": "Concepticon"
         },
         {
-            "rdf:about": "https://github.com/cldf-clts/clts/",
+            "rdf:about": "https://github.com/cldf-clts/clts",
             "rdf:type": "prov:Entity",
-            "dc:created": "v2.0.0",
+            "dc:created": "v2.1.0",
             "dc:title": "CLTS"
         }
     ],
     "prov:wasGeneratedBy": [
         {
+            "dc:title": "lingpy-rcParams",
+            "dc:relation": "lingpy-rcParams.json"
+        },
+        {
             "dc:title": "python",
-            "dc:description": "3.9.5"
+            "dc:description": "3.8.10"
         },
         {
             "dc:title": "python-packages",
@@ -58,6 +62,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
+            "dc:description": "\nRaw lexical data item as it can be pulled out of the original datasets.\n\nThis is the basis for creating rows in CLDF representations of the data by\n- splitting the lexical item into forms\n- cleaning the forms\n- potentially tokenizing the form\n",
             "dc:extent": 1804,
             "tableSchema": {
                 "columns": [
