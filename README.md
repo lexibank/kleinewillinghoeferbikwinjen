@@ -30,14 +30,14 @@ Conceptlists in Concepticon:
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 18
-- **Concepts:** 119
+- **Varieties:** 18 (linked to 11 different Glottocodes)
+- **Concepts:** 119 (linked to 117 different Concepticon concept sets)
 - **Lexemes:** 1,804
 - **Sources:** 2
 - **Synonymy:** 1.16
 - **Invalid lexemes:** 0
 - **Tokens:** 8,009
-- **Segments:** 228 (0 BIPA errors, 0 CTLS sound class errors, 227 CLTS modified)
+- **Segments:** 228 (0 BIPA errors, 0 CLTS sound class errors, 227 CLTS modified)
 - **Inventory size (avg):** 67.94
 
 # Contributors
@@ -46,7 +46,7 @@ Name | GitHub user | Description | Role
 --- | --- | --- | ---
 Ulrich Kleinewillinghöfer | | data collection | DataCollector, Author
 Kristina-Pianykh | @Kristina-Pianykh  | initial code | Other
-Christoph Rzymski | @chrzyki  | patron, maintainer | Other
+Christoph Rzymski | @chrzyki  | patron, maintainer | Editor
 
 
 
