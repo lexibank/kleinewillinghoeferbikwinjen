@@ -18,7 +18,7 @@
         {
             "rdf:about": "https://github.com/lexibank/kleinewillinghoeferbikwinjen",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.0",
+            "dc:created": "v1.1",
             "dc:title": "Repository"
         },
         {
@@ -47,7 +47,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.9.6"
+            "dc:description": "3.12.5"
         },
         {
             "dc:title": "python-packages",
@@ -223,6 +223,10 @@
                     {
                         "datatype": "string",
                         "name": "Source"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Region"
                     }
                 ],
                 "primaryKey": [
