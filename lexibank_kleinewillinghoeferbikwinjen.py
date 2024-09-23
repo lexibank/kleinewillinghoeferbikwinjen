@@ -8,6 +8,7 @@ from clldutils.misc import slug
 @attr.s
 class CustomLanguage(pylexibank.Language):
     Source = attr.ib(default=None)
+    Region = attr.ib(default=None)
 
 
 class Dataset(pylexibank.Dataset):

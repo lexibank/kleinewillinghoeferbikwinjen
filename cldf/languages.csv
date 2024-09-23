@@ -1,19 +1,19 @@
-ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,Source
-Burak,Burak,bura1271,Burak,bys,Eastern Nigeria,9.49,11.07,Atlantic-Congo,Kleinewillinghoefer2014
-LooofGaldemaru,Loo of Galdemaru,looo1238,Loo,ldo,Eastern Nigeria,9.41,11.05,Atlantic-Congo,Kleinewillinghoefer2014
-LooofWaamura,Loo of Waamura,looo1238,Loo,ldo,Eastern Nigeria,9.41,11.05,Atlantic-Congo,Kleinewillinghoefer2014
-Maghdi,Maɣdi,magh1238,Mághdì,gmd,Eastern Nigeria,9.29,11.02,Atlantic-Congo,Kleinewillinghoefer2015
-MaghdiTala,Maɣdi (Tala),magh1238,Mághdì,gmd,Eastern Nigeria,9.29,11.02,Atlantic-Congo,Kleinewillinghoefer2014
-LeeMakofPanya,Lee Mak of Panya,pany1242,Panya,,Eastern Nigeria,,,Atlantic-Congo,Kleinewillinghoefer2015
-LeeMakofZoo,Lee Mak of Zoo,zooo1239,Zo,,Eastern Nigeria,,,Atlantic-Congo,Kleinewillinghoefer2015
-Kyak,Kya̰k,kyak1243,Kyak,bka,Eastern Nigeria,9.52,11.28,Atlantic-Congo,Kleinewillinghoefer2015
-KyakBambuka,Kyak (Bambuka),kyak1243,Kyak,bka,Eastern Nigeria,9.52,11.28,Atlantic-Congo,Kleinewillinghoefer2014
-Moo,Mɔɔ,mooo1239,Moo,gwg,Eastern Nigeria,9.44,11.2,Atlantic-Congo,Kleinewillinghoefer2015
-MooGomu,Moo (Gomu),mooo1239,Moo,gwg,Eastern Nigeria,9.44,11.2,Atlantic-Congo,Kleinewillinghoefer2014
-LeeLau,LeeLau,leel1242,Leelau,ldk,Eastern Nigeria,9.29,11.16,Atlantic-Congo,Kleinewillinghoefer2015
-LeelauMungaLeelau,Leelau (Munga Leelau),leel1242,Leelau,ldk,Eastern Nigeria,9.29,11.16,Atlantic-Congo,Kleinewillinghoefer2014
-DzaofKaigama,Dza of Kaigama,dzaa1238,Dza,jen,Eastern Nigeria,9.27,11.39,Atlantic-Congo,Kleinewillinghoefer2015
-JenofKaigamma,Jen of Kaigamma,dzaa1238,Dza,jen,Eastern Nigeria,9.27,11.39,Atlantic-Congo,Kleinewillinghoefer2014
-MungaDoso,Munga Doso,ming1254,Mingang Doso,mko,Eastern Nigeria,9.26,11.29,Atlantic-Congo,Kleinewillinghoefer2014
-Joole,Joole,,dzaa1238,,Eastern Nigeria,,,,Kleinewillinghoefer2015
-JooleofJooleManga,Jòòle of Joole Manga,thaa1239,Tha,thy,Eastern Nigeria,9.21,11.18,Atlantic-Congo,Kleinewillinghoefer2015
+ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,Source,Region
+Burak,Burak,bura1271,Burak,bys,Africa,9.49,11.07,Atlantic-Congo,Kleinewillinghoefer2014,Eastern Nigeria
+LooofGaldemaru,Loo of Galdemaru,looo1238,Loo,ldo,Africa,9.41,11.05,Atlantic-Congo,Kleinewillinghoefer2014,Eastern Nigeria
+LooofWaamura,Loo of Waamura,looo1238,Loo,ldo,Africa,9.41,11.05,Atlantic-Congo,Kleinewillinghoefer2014,Eastern Nigeria
+Maghdi,Maɣdi,magh1238,Mághdì,gmd,Africa,9.29,11.02,Atlantic-Congo,Kleinewillinghoefer2015,Eastern Nigeria
+MaghdiTala,Maɣdi (Tala),magh1238,Mághdì,gmd,Africa,9.29,11.02,Atlantic-Congo,Kleinewillinghoefer2014,Eastern Nigeria
+LeeMakofPanya,Lee Mak of Panya,pany1242,Panya,,Africa,,,Atlantic-Congo,Kleinewillinghoefer2015,Eastern Nigeria
+LeeMakofZoo,Lee Mak of Zoo,zooo1239,Zo,,Africa,,,Atlantic-Congo,Kleinewillinghoefer2015,Eastern Nigeria
+Kyak,Kya̰k,kyak1243,Kyak,bka,Africa,9.52,11.28,Atlantic-Congo,Kleinewillinghoefer2015,Eastern Nigeria
+KyakBambuka,Kyak (Bambuka),kyak1243,Kyak,bka,Africa,9.52,11.28,Atlantic-Congo,Kleinewillinghoefer2014,Eastern Nigeria
+Moo,Mɔɔ,mooo1239,Moo,gwg,Africa,9.44,11.2,Atlantic-Congo,Kleinewillinghoefer2015,Eastern Nigeria
+MooGomu,Moo (Gomu),mooo1239,Moo,gwg,Africa,9.44,11.2,Atlantic-Congo,Kleinewillinghoefer2014,Eastern Nigeria
+LeeLau,LeeLau,leel1242,Leelau,ldk,Africa,9.29,11.16,Atlantic-Congo,Kleinewillinghoefer2015,Eastern Nigeria
+LeelauMungaLeelau,Leelau (Munga Leelau),leel1242,Leelau,ldk,Africa,9.29,11.16,Atlantic-Congo,Kleinewillinghoefer2014,Eastern Nigeria
+DzaofKaigama,Dza of Kaigama,dzaa1238,Dza,jen,Africa,9.27,11.39,Atlantic-Congo,Kleinewillinghoefer2015,Eastern Nigeria
+JenofKaigamma,Jen of Kaigamma,dzaa1238,Dza,jen,Africa,9.27,11.39,Atlantic-Congo,Kleinewillinghoefer2014,Eastern Nigeria
+MungaDoso,Munga Doso,ming1254,Mingang Doso,mko,Africa,9.26,11.29,Atlantic-Congo,Kleinewillinghoefer2014,Eastern Nigeria
+Joole,Joole,,dzaa1238,,,,,,Kleinewillinghoefer2015,Eastern Nigeria
+JooleofJooleManga,Jòòle of Joole Manga,thaa1239,Tha,thy,Africa,9.21,11.18,Atlantic-Congo,Kleinewillinghoefer2015,Eastern Nigeria
